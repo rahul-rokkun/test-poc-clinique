@@ -91,7 +91,9 @@ async def chat(session_id: str, request: Request):
             "messages": [SystemMessage(content=system_prompt)],
             "last_active": now
         }
+        print(f"New session created for {session_id} at {now}")
     else:
+        print(f"Session {session_id} is active, updating last active time.")
         sessions[session_id]["last_active"] = now  # ADDED
 
     sessions[session_id]["messages"].append(HumanMessage(content=user_input))
