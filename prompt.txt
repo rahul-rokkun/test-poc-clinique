@@ -39,6 +39,12 @@ Avoid listing product details in natural language outside this format. If no rec
 Recommendations & Engagement:
 Default approach: Display 5-7 recommendations that best match criteria.
 
+YOU MUST:
+✅ Show EVERY SINGLE MATCHING PRODUCT from the catalog
+✅ Do NOT limit to 6-8 recommendations
+✅ List ALL products that match their criteria and exclusions
+
+
 CRITICAL - "Show All" Requests Rule:
 When a customer explicitly asks to see ALL items: "Show me all moisturizers" or "I want to see everything you have for oily skin," you must:
 - Show every single matching product from the catalog.
@@ -84,9 +90,9 @@ A: `Great! Are you looking for a night cream, serum, or cleanser for the evening
 ##PRODUCT CATALOGUE:
 
 
-Product name: All About Clean™ 2-in-1 Charcoal Mask + Scrub
+Product Name: All About Clean™ 2-in-1 Charcoal Mask + Scrub
 Category: Face Masks
-Price: ₹5,500.00
+Price: $$66.27
 Description: Five-minute detoxifying face mask + scrub helps remove pollution and excess oil, plus refines skin's texture.
 Details: Two-in-one formula with bamboo charcoal and kaolin clay delivers a powerful, detoxifying clean for polished skin. Leaves skin clear, bright, and feeling smooth.  Formula Facts Allergy tested.
 Ingredients: Bamboo Charcoal Powder: Created from the process of bamboo carbonization, this ingredient has an enormous surface area to mass ratio that allows it to attract and absorb build-up like pollutants on skin. 1 gram of bamboo charcoal has up to 1,000 square meters of surface area, making it an excellent purifying and detoxifying agent. Kaolin Clay: Natural clay that helps absorb excess oil from skin.
@@ -95,9 +101,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Superdefense™ Broad Spectrum SPF 25 Fatigue + 1st Signs Of Age Multi-Correcting Cream
+Product Name: Superdefense™ Broad Spectrum SPF 25 Fatigue + 1st Signs Of Age Multi-Correcting Cream
 Category: Moisturizers & Face Creams
-Price: ₹3,600.00
+Price: $$43.37
 Description: A refreshing silky cream with SPF that fights fatigue and first signs of aging.
 Details: Awakens instantly and continuously, with 12 hours of anti-fatigue radiance for more youthful-looking skin. Helps visibly correct first signs of aging, uneven texture, dullness, fine lines and wrinkles. Helps defend against a full spectrum of modern aggressors. Sweat and humidity resistant. Oil-free.Our Clinique Clean PhilosophySimple. Safe. Effective. Allergy tested. 100% fragrance free.
 Ingredients: N/A
@@ -106,9 +112,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Even Better Clinical™ Brightening Moisturizer
+Product Name: Even Better Clinical™ Brightening Moisturizer
 Category: Moisturizers & Face Creams
-Price: ₹2,800.00
+Price: $$33.73
 Description: Lightweight moisturizer hydrates as it helps visibly improve multiple dimensions of discoloration.
 Details: Lightweight moisturizer with exclusive CL302 Brightening Complex™ helps visibly improve multiple dimensions of discoloration: dark spot contrast, dark spot intensity, dullness, and redness caused by irritation.Deeply hydrates, leaving skin feeling comfortable and soft.Refines skin’s texture so it feels smoother.Calms and soothes skin to visibly reduce redness caused by irritation, which could trigger future dark spots.  Formula Facts Non-comedogenicAllergy tested.Dermatologist tested.
 Ingredients: CL302 Brightening Complex™: Helps treat the look of dark spots with: Salicylic acid: Gently sloughs off the uppermost layers of the skin to help reveal fresher, more even-looking skin. Glucosamine: Helps weaken the bonds that hold dead skin cells together to encourage the exfoliation of surface discoloration. Yeast extract: Clinique’s “cluster buster” helps break up (exfoliate) large clusters of excess pigmentation. Vitamin C (ascorbyl glucoside): Potent brightening antioxidant helps visibly reduce dark spots. UP302 (dimethoxytolyl propylresorcinol): A targeted brightening molecule inspired by border silver, or dianella ensifolia, a botanical known in traditional Chinese medicine for its antioxidant properties. Plus, other powerful ingredients, which include: Gyokuro (camellia sinensis leaf) extract: A green tea harvested with a special method in Japan that helps quell the look of irritation, which can trigger future dark spots. Hyaluronic acid: This moisture-binding ingredient helps create a “moisture reservoir” for ideal hydration.
@@ -117,9 +123,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Cream
+Product Name: Clinique Smart Clinical Repair™ Wrinkle Correcting Cream
 Category: Moisturizers & Face Creams
-Price: ₹8,200.00
+Price: $$98.8
 Description: Wrinkle-fighting cream helps strengthen and nourish for smoother, younger-looking skin.
 Details: A powerful addition to our most advanced de-aging line yet, Clinique Smart Clinical Repair™, this ultra-nourishing moisturizer is engineered to visibly reduce lines and wrinkles for supple, younger-looking skin.Our cutting-edge formula with CL1870 Peptide Complex™ helps boost skin’s natural collagen to help fortify the dermal structure, leaving skin feeling stronger and looking smoother.Plumps skin with lasting hydration. 50ml and 15ml jars each contain a minimum of 30% post-consumer recycled content.Carton is made from responsibly sourced paperboard. Please recycle.  Formula Facts Clinically proven.Dermatologist tested.Allergy tested.
 Ingredients: CL1870 Peptide Complex™: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Hyaluronic acid: Our formula uses two molecular weights of hyaluronic acid. This intense humectant helps flood your skin with hydration—and holds on. Helps restore suppleness and visibly smooth fine, dry lines. Soybean seed extract: An ingredient rich in lysophosphatidic acid (LPA), which nourishes to help fortify skin. Shea butter: Found in our Rich Cream, it contains lipids that form skin’s barrier and is integral to keeping drier skin hydrated.
@@ -128,9 +134,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Moisture Surge™ Overnight Mask
+Product Name: Moisture Surge™ Overnight Mask
 Category: Face Masks
-Price: ₹4,950.00
+Price: $$59.64
 Description: Creamy, oil-free hydrating face mask deeply nourishes while you sleep. Delivers a 98% overnight moisture boost.Clinical testing on 21 women.
 Details: Did you know skin loses moisture while you sleep? This rich, penetrating night mask replenishes all night long. It soothes and nourishes to help skin stay hydrated. Includes hydrating panthenol to help support skin’s moisture barrier. You’ll wake up to soft, dewy, glowing skin.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: N/A
@@ -139,9 +145,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Even Better Clinical™ Radical Dark Spot Corrector + Interrupter
+Product Name: Even Better Clinical™ Radical Dark Spot Corrector + Interrupter
 Category: Face Serums
-Price: ₹1,650.00
+Price: $$19.88
 Description: Potent brightening serum for hyperpigmentation helps visibly improve dark spots and uneven skin tone. See a 39% visible reduction in dark spots in 12 weeks.*
 Details: Our “damage eraser” with CL302 Brightening Complex™ is now more concentrated, with boosted technology to deliver dramatic brightening results—yet is still gentle enough for all skin types.Features our proprietary brightening molecule and vitamin C for a more even-looking skin tone, including acne pigmentation marks. Plus improves the look of hyperpigmentation, such as existing dark spots, and interrupts the look of future dark spots, too.In just 2.5 hours helps quell redness from irritation that can trigger new visible spots and worsen existing spots.*Penetrates up to 21 layers deep into skin’s surface.***After pre-treatment period; clinical testing on 26 people, measured for 150 minutes, versus untreated control.**Ex vivo testing after 4 hours.  Results Tested on 500+ women across melanin-rich to fair skin tones.In 7 days:84% say skin looks more radiant.*93% say skin feels soothed & calmer.**Consumer testing on 536 women.In 28 days:90% say skin looks brighter.**89% say skin looks more even.**81% say the look of dark spots, including sun spots, was reduced.**83% say the look of acne marks was reduced.*****Consumer testing on 533 women.***Consumer testing on 433 women.   Formula Facts Allergy tested. Dermatologist Developed. Non Acnegenic.
 Ingredients: CL302 Brightening Complex™™ with vitamin C targets dark spots in two ways: helps visibly correct with the CL302 Complex and interrupts future ones with the Interrupter Complex. CL302 Complex: with 2X the brightening dose helps visibly reduce dark spots and discoloration. It includes the following: UP302 (dimethoxytolyl propylresorcinol): A targeted brightening molecule inspired by border silver, or dianella ensifolia, a botanical known in traditional Chinese medicine for its antioxidant properties. Vitamin C (ascorbyl glucoside): Potent brightening antioxidant helps to visibly reduce dark spots and even skin tone. Salicylic acid: Gently sloughs off the uppermost layers of the skin to help reveal fresher, more even-looking skin. Glucosamine: Helps weaken the bonds that hold dead skin cells together to encourage the exfoliation of surface discoloration for brighter, more even-looking skin. Yeast extract: Clinique’s “cluster buster” helps break up (exfoliate) large clusters of excess pigment (dark spots) so they’re less visible. Interrupter Complex: with a cocktail of soothing ingredients helps minimize visible irritation to interrupt the look of future discoloration. It includes the following: Gyokuro (camellia sinensis leaf) extract: A green tea harvested with a special method in Japan that helps quell the look of irritation. Rice bran extract: A potent antioxidant and anti-irritant, it helps to prevent the look of future dark spots by defending skin against damaging free radicals.
@@ -150,9 +156,9 @@ Results: Tested on 500+ women across melanin-rich to fair skin tones. In 7 days:
 Rating: 3.75
 
 
-Product name: Clarifying Lotion 4
+Product Name: Clarifying Lotion 4
 Category: Exfoliators & Toners
-Price: ₹3,000.00
+Price: $$36.14
 Description: Exfoliating lotion for oily skin. Sweeps away excess oil that can lead to breakouts. Dermatologist-developed.
 Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 31 men and women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: N/A
@@ -161,9 +167,9 @@ Results: Instantly delivers clinically proven benefits*, for skin that: Looks sm
 Rating: 4.33
 
 
-Product name: Dramatically Different™ Moisturizing Gel
+Product Name: Dramatically Different™ Moisturizing Gel
 Category: Moisturizers & Face Creams
-Price: ₹2,800.00
+Price: $$33.73
 Description: Dermatologist-developed oil-free face moisturizer balances and refreshes oilier skin types.
 Details: Delivers 8 hours of lightweight, oil-free hydration.Replenishes skin’s oil-water balance for healthy skin, refreshing oilier skin types.Slips on easily, absorbs quickly.  Results In 4 hours, starts to strengthen skin’s moisture barrier.Instantly boosts skin’s moisture by 94%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
 Ingredients: Natural moisturizing factors: Also known as NMFs, these humectants occur naturally in skin. They help pull in water and bind moisture to skin to help keep it hydrated and balanced. Infused with a blend of barley, sunflower, and cucumber.
@@ -172,9 +178,9 @@ Results: In 4 hours, starts to strengthen skin’s moisture barrier. Instantly b
 Rating: 4.33
 
 
-Product name: All About Clean™ Liquid Facial Soap Mild for Dry Combination Skin Types
+Product Name: All About Clean™ Liquid Facial Soap Mild for Dry Combination Skin Types
 Category: Cleansers & Face Wash
-Price: ₹1,050.00
+Price: $$12.65
 Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
 Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: Formulated with sucrose, known to calm and soothe skin.
@@ -183,9 +189,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Dramatically Different™ Moisturizing Lotion+™
+Product Name: Dramatically Different™ Moisturizing Lotion+™
 Category: Moisturizers & Face Creams
-Price: ₹5,150.00
+Price: $$62.05
 Description: Dermatologist-developed lotion is Clinique's #1 face moisturizer. Silky, fast-absorbing moisturizing lotion with pure urea and pure glycerin rapidly strengthens the skin barrier.
 Details: Delivers 8 hour hydration + soothing moisture for skin in need of comfort.Moisturizes to soften, smooth, and improve.Helps strengthen skin’s own moisture barrier so more moisture stays in.Replenishes skin’s oil-water balance for healthy skin.Silky lotion slips on easily, absorbs quickly.  Results In 4 hours, strengthens skin’s moisture barrier by 34%.Instantly boosts skin’s moisture by 119%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
 Ingredients: Natural moisturizing factors: Also known as NMFs, these humectants occur naturally in skin. They help pull in water and bind moisture to skin to help keep it hydrated and balanced. *Infused with a blend of barley, sunflower, and cucumber.
@@ -194,9 +200,9 @@ Results: In 4 hours, strengthens skin’s moisture barrier by 34%. Instantly boo
 Rating: 4.33
 
 
-Product name: All About Clean™ Liquid Facial Soap Oily Skin Formula for Combination Oily to Oily Skin
+Product Name: All About Clean™ Liquid Facial Soap Oily Skin Formula for Combination Oily to Oily Skin
 Category: Cleansers & Face Wash
-Price: ₹2,500.00
+Price: $$30.12
 Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
 Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: Formulated with sucrose, known to calm and soothe skin.
@@ -205,20 +211,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: All About Clean™ Liquid Facial Soap Mild for Dry Combination Skin Types
-Category: Cleansers & Face Wash
-Price: ₹1,050.00
-Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
-Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: Formulated with sucrose, known to calm and soothe skin.
-How to use: Use twice a day, morning and night. Lather between palms with lukewarm water. Massage over makeup-free face and neck. Rinse thoroughly; pat skin dry. Follow with Steps 2 and 3: Clarifying Lotion and Dramatically Different Moisturizing Lotion+, Gel or Hydrating Jelly.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clinique Smart Clinical Repair™ AM/PM Retinoid Balm
+Product Name: Clinique Smart Clinical Repair™ AM/PM Retinoid Balm
 Category: Face Serums
-Price: ₹3,500.00
+Price: $$42.17
 Description: nan
 Details: Plumps the look of fine, dry lines.Helps visibly correct even the most stubborn lines, including forehead lines, frown lines (a.k.a. “11” lines), crow’s feet, vertical lines around the lips, and smile lines.Helps smooth the appearance of skin’s texture.Gentle enough to use morning and night.Provides precise application in an easy-to-use stick format.
 Ingredients: N/A
@@ -227,9 +222,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Superdefense™ City Block Broad Spectrum SPF 50 Daily Energy + Face Protector
+Product Name: Superdefense™ City Block Broad Spectrum SPF 50 Daily Energy + Face Protector
 Category: Sunscreen
-Price: ₹3,550.00
+Price: $$42.77
 Description: An energizing, go-anywhere daily SPF protector for all-day defense.
 Details: Daily SPF protector works all day to defend and awaken skin. Sheer and weightless. Quick absorbing and oil-free.
 Ingredients: N/A
@@ -238,9 +233,9 @@ Results: N/A
 Rating: 4.0
 
 
-Product name: Moisture Surge™ Face Spray Thirsty Skin Relief
+Product Name: Moisture Surge™ Face Spray Thirsty Skin Relief
 Category: Moisturizers & Face Creams
-Price: ₹3,800.00
+Price: $$45.78
 Description: Spritz on a refreshing boost of oil-free moisture anytime. Light mist softens and soothes in a flash.
 Details: Bursting with moisture and activated aloe water, this must-have oil-free face spray immediately hydrates, softening and soothing skin in a flash. Portable size means you can enjoy an instant spritz of refreshing moisture anytime. Oil-Free. Ophthalmologist Tested.  Formula Facts Allergy tested. Ophthalmologist Tested.
 Ingredients: N/A
@@ -249,9 +244,9 @@ Results: N/A
 Rating: 5.0
 
 
-Product name: Clarifying Lotion 1
+Product Name: Clarifying Lotion 1
 Category: Exfoliators & Toners
-Price: ₹3,000.00
+Price: $$36.14
 Description: Dermatologist-developed formula. Our bestselling exfoliating lotion for dry-combination skin sweeps away dulling flakes.
 Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 22 women, after using product one time.
 Ingredients: N/A
@@ -260,9 +255,9 @@ Results: Instantly delivers clinically proven benefits*, for skin that: Looks sm
 Rating: 4.33
 
 
-Product name: 7 Day Scrub Cream Rinse-Off Formula
+Product Name: 7 Day Scrub Cream Rinse-Off Formula
 Category: Exfoliators & Toners
-Price: ₹4,100.00
+Price: $$49.4
 Description: Gentle exfoliating cream polishes and refines skin's texture.
 Details: Dermatologist-developed exfoliating cream gently brushes away roughness and flakiness, clearing the way for moisturizer and smoother makeup application. Lightweight formula smooths skin, helping to minimize the appearance of fine, dry lines.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: Silica provides gentle exfoliation in this water-based cream.
@@ -271,20 +266,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Even Better Clinical™ Brightening Moisturizer
-Category: Moisturizers & Face Creams
-Price: ₹2,800.00
-Description: Lightweight moisturizer hydrates as it helps visibly improve multiple dimensions of discoloration.
-Details: Lightweight moisturizer with exclusive CL302 Brightening Complex™ helps visibly improve multiple dimensions of discoloration: dark spot contrast, dark spot intensity, dullness, and redness caused by irritation.Deeply hydrates, leaving skin feeling comfortable and soft.Refines skin’s texture so it feels smoother.Calms and soothes skin to visibly reduce redness caused by irritation, which could trigger future dark spots.  Formula Facts Non-comedogenicAllergy tested.Dermatologist tested.
-Ingredients: CL302 Brightening Complex™: Helps treat the look of dark spots with: Salicylic acid: Gently sloughs off the uppermost layers of the skin to help reveal fresher, more even-looking skin. Glucosamine: Helps weaken the bonds that hold dead skin cells together to encourage the exfoliation of surface discoloration. Yeast extract: Clinique’s “cluster buster” helps break up (exfoliate) large clusters of excess pigmentation. Vitamin C (ascorbyl glucoside): Potent brightening antioxidant helps visibly reduce dark spots. UP302 (dimethoxytolyl propylresorcinol): A targeted brightening molecule inspired by border silver, or dianella ensifolia, a botanical known in traditional Chinese medicine for its antioxidant properties. Plus, other powerful ingredients, which include: Gyokuro (camellia sinensis leaf) extract: A green tea harvested with a special method in Japan that helps quell the look of irritation, which can trigger future dark spots. Hyaluronic acid: This moisture-binding ingredient helps create a “moisture reservoir” for ideal hydration.
-How to use: Use AM and PM on clean skin. In the AM, follow with SPF.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Anti-Blemish Solutions™ Cleansing Gel
+Product Name: Anti-Blemish Solutions™ Cleansing Gel
 Category: Cleansers & Face Wash
-Price: ₹2,650.00
+Price: $$31.93
 Description: Refreshing, medicated cleanser with 2% salicylic acid helps clear acne and prevent future breakouts.
 Details: Refreshing, medicated cleanser with 2% salicylic acid helps clear breakouts and blackheads, control oil, and unclog pores. Skin feels fresh, soft, and smooth.Try Clinique’s Clear Skin System.A consistent, non-irritating routine helps get breakouts under control. Clinique’s Acne Solutions™ Clear Skin System helps get skin clear, and keep it that way.Cleanse: Acne Solutions™ Cleansing Foam or Cleansing GelExfoliate: Acne Solutions™ Clarifying LotionTreat: Acne Solutions™ Clinical Clearing GelUse with Dramatically Different™ Moisturizing Gel for lightweight, oil-free hydration.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Salicylic Acid and Acetyl Glucosamine: Help clear dead skin cells that can contribute to clogged pores.
@@ -293,9 +277,9 @@ Results: N/A
 Rating: nan
 
 
-Product name: Clinique For Men™ Broad Spectrum SPF 21 Moisturizer
+Product Name: Clinique For Men™ Broad Spectrum SPF 21 Moisturizer
 Category: Moisturizers & Face Creams
-Price: ₹4,950.00
+Price: $$59.64
 Description: Lightweight, oil-free hydration plus daily UVA/UVB protection.
 Details: Needed hydration plus daily UVA/UVB protection. Improves skin's condition. Lightweight, oil-free formula absorbs quickly.  Skin Type All Skin Types   Formula Facts Allergy Tested
 Ingredients: N/A
@@ -304,9 +288,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Clarifying Lotion 2
+Product Name: Clarifying Lotion 2
 Category: Exfoliators & Toners
-Price: ₹3,000.00
+Price: $$36.14
 Description: Gentle exfoliating lotion for dry-combination skin sweeps away dulling flakes. Dermatologist-developed.
 Details: Gentle, refreshing face formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 20 women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: N/A
@@ -315,9 +299,9 @@ Results: Instantly delivers clinically proven benefits*, for skin that: Looks sm
 Rating: 4.33
 
 
-Product name: Moisture Surge™ Intense 72H Lipid-Replenishing Hydrator
+Product Name: Moisture Surge™ Intense 72H Lipid-Replenishing Hydrator
 Category: Moisturizers & Face Creams
-Price: ₹2,250.00
+Price: $$27.11
 Description: Rich cream-gel delivers 72-hour hydration for velvety-smooth skin. Tested in Siberia and the results were glowing.*
 Details: Our richest formula yet sets non-stop hydration into motion with the help of activated aloe water and caffeine. Then locks it in with a trio of lipids, strengthening skin’s barrier to keep moisture in and helps keep aggressors out. Keeps skin hydrated for 72 hours, leaving it glowing, plump, and velvety-smooth. Calming cica helps soothe and comfort dry or dehydrated skin.  Results We tested it on women in Siberia during winter, where they face extreme weather conditions—and the results were glowing.*  Immediately: 98% said their skin felt hydrated. 97% said their skin felt soft. 94% said their skin felt protected in extreme cold. 98% said their tight, dry skin felt relieved.  In 1 week: 91% said their skin was glowing. 91% said their skin felt plump. 92% said their skin felt less irritated.  In 4 weeks: 98% said their skin felt deeply hydrated. 96% said their skin felt healthier. 98% said their skin looked dewy. 94% said their skin felt comforted. 96% said their skin felt deeply nourished.  *Consumer testing on 106 women after using the product for 4 weeks.  Now in more sustainable packaging. 30ml, 50ml, and 75ml are made from glass that’s recyclable. 15ml jar is made with minimum 44% post-consumer recycled material.What does post-consumer recycled (PCR) material mean? It’s a material (such as a plastic water bottle) that's already been used and would otherwise have been thrown away. This reduces the creation of new plastic waste.How to recycle: The glass jars are recyclable. Remove the cap, then rinse the jar and place in a recycling bin.Please Note: 15ml size is excluded from additional discounts and promotions.  Formula Facts Allergy tested. Non-Acnegenic. Dermatologist Tested.
 Ingredients: Activated Aloe Water: Water is infused with aloe leaf extract to help deliver intense hydration. Cica: Also known as tiger grass, cica is a centuries-old ingredient traditionally used in Chinese medicine for its healing properties. Helps soothe dry, delicate skin. Auto-Replenishing Lipid-Filler Technology: Using activated aloe water and caffeine, this technology helps trigger skin’s internal water source so skin can continuously hydrate itself. Uses three types of lipids to reinforce and strengthen skin’s barrier, helping lock in and retain moisture.
@@ -326,20 +310,9 @@ Results: We tested it on women in Siberia during winter, where they face extreme
 Rating: 4.33
 
 
-Product name: 7 Day Scrub Cream Rinse-Off Formula
-Category: Exfoliators & Toners
-Price: ₹4,100.00
-Description: Gentle exfoliating cream polishes and refines skin's texture.
-Details: Dermatologist-developed exfoliating cream gently brushes away roughness and flakiness, clearing the way for moisturizer and smoother makeup application. Lightweight formula smooths skin, helping to minimize the appearance of fine, dry lines.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: Silica provides gentle exfoliation in this water-based cream.
-How to use: Massage over makeup-free skin, avoiding eye area. Rinse or tissue off.
-Results: N/A
-Rating: 4.33
-
-
-Product name: All About Eyes™ Eye Cream
+Product Name: All About Eyes™ Eye Cream
 Category: Eye Care
-Price: ₹4,250.00
+Price: $$51.2
 Description: Lightweight, refreshing eye cream hydrates, brightens, and reduces the look of puffiness.
 Details: This lightweight eye cream diminishes the appearance of puffs, undereye circles. Non-creep, cream/gel formula actually helps hold eye makeup in place.  Formula Facts Ophthalmologist tested. Allergy tested.
 Ingredients: N/A
@@ -348,20 +321,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Clarifying Lotion 2
+Product Name: Clarifying Lotion 3
 Category: Exfoliators & Toners
-Price: ₹3,000.00
-Description: Gentle exfoliating lotion for dry-combination skin sweeps away dulling flakes. Dermatologist-developed.
-Details: Gentle, refreshing face formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 20 women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: N/A
-How to use: Use exfoliating lotion twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with Step 3: Dramatically Different Moisturizing Lotion+, Gel or Jelly.
-Results: Instantly delivers clinically proven benefits*, for skin that: Looks smoother. Looks more radiant. With less-noticeable pores. *Clinical testing on 20 women, after using product one time.
-Rating: 4.33
-
-
-Product name: Clarifying Lotion 3
-Category: Exfoliators & Toners
-Price: ₹3,000.00
+Price: $$36.14
 Description: Exfoliating lotion for combination-oily skin. Sweeps away dulling flakes and excess oil. Dermatologist-developed.
 Details: Gentle, refreshing exfoliating lotion formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation he surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 31 men and women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: N/A
@@ -370,9 +332,9 @@ Results: Instantly delivers clinically proven benefits*, for skin that: Looks sm
 Rating: 4.33
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Rich Cream
+Product Name: Clinique Smart Clinical Repair™ Wrinkle Correcting Rich Cream
 Category: Moisturizers & Face Creams
-Price: ₹8,200.00
+Price: $$98.8
 Description: Wrinkle-fighting cream helps strengthen and nourish for smoother, younger-looking skin.
 Details: A powerful addition to our most advanced de-aging line yet, Clinique Smart Clinical Repair™, this ultra-nourishing moisturizer is engineered to visibly reduce lines and wrinkles for supple, younger-looking skin.Our cutting-edge formula with CL1870 Peptide Complex™ helps boost skin’s natural collagen to help fortify the dermal structure, leaving skin feeling stronger and looking smoother.Plumps skin with lasting hydration. 50ml and 15ml jars each contain a minimum of 30% post-consumer recycled content.Carton is made from responsibly sourced paperboard. Please recycle.  Formula Facts Clinically proven. Oil-free.Dermatologist tested.Fragrance-free.Allergy tested.
 Ingredients: CL1870 Peptide Comple™: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Hyaluronic acid: Our formula uses two molecular weights of hyaluronic acid. This intense humectant helps flood your skin with hydration—and holds on. Helps restore suppleness and visibly smooth fine, dry lines. Soybean seed extract: An ingredient rich in lysophosphatidic acid (LPA), which nourishes to help fortify skin. Shea butter: Found in our Rich Cream, it contains lipids that form skin’s barrier and is integral to keeping drier skin hydrated.
@@ -381,9 +343,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Take The Day Off™ Cleansing Balm
+Product Name: Take The Day Off™ Cleansing Balm
 Category: Cleansers & Face Wash
-Price: ₹3,800.00
+Price: $$45.78
 Description: Clinique's iconic makeup remover in a silky balm formula. Gently dissolves makeup and SPF, conditions lashes.
 Details: Lightweight makeup remover quickly dissolves tenacious eye and face makeups, sunscreens. Transforms from a solid balm into a silky oil upon application. Cleans thoroughly, rinses off completely. Gently helps remove the stress of pollution so skin looks younger, longer. Non-greasy. Non-drying.  Results Over 95% removal of face makeup, sunscreen, and pollutants.**Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.   Formula Facts Non-comedogenic.Non-greasy.Non-drying.Allergy tested.
 Ingredients: Safflower Seed Oil: Works efficiently to help break up natural oil found on skin, as well as dissolves hard-to-remove makeup. Rich in linoleic acid, this natural emollient helps leave skin feeling soft and nourished.
@@ -392,9 +354,9 @@ Results: Over 95% removal of face makeup, sunscreen, and pollutants.* *Average r
 Rating: 5.0
 
 
-Product name: Clinique For Men™ Maximum Hydrator Activated Water-Gel Concentrate
+Product Name: Clinique For Men™ Maximum Hydrator Activated Water-Gel Concentrate
 Category: Moisturizers & Face Creams
-Price: ₹3,950.00
+Price: $$47.59
 Description: Supercharged hydrator instantly refreshes and quenches dehydrated skin.
 Details: An instant moisture boost. Water-gel formula is ultralight, yet intensely hydrates to boost skin's moisture reserves for a full 72 hours. Innovative Liquid-Sphere Technology combines water-binding ingredients with encapsulated antioxidants to help break the cycle of dryness and environmental stress that can age skin's appearance. Absorbs instantly, leaving skin soothed, comfortable, fresh.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: N/A
@@ -403,9 +365,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Moisture Surge™ Lip Hydro-Plump Treatment
+Product Name: Moisture Surge™ Lip Hydro-Plump Treatment
 Category: Lip Care
-Price: ₹2,200.00
+Price: $$26.51
 Description: Multi-tasking treatment smooths, relieves dryness, and preps for soft, dewy lips.
 Details: Finish:Natural  Delivers plumping hydration and nourishment for soft and supple lips. This anytime, multi-tasking treatment instantly moisturizes, smooths and preps lips for makeup.  Formula Facts Allergy tested. Dermatologist Tested.
 Ingredients: Formulated with lip-loving ingredients like lipids, shea butter and ceramides.
@@ -414,20 +376,9 @@ Results: N/A
 Rating: 5.0
 
 
-Product name: Take The Day Off™ Cleansing Balm
-Category: Cleansers & Face Wash
-Price: ₹3,800.00
-Description: Clinique's iconic makeup remover in a silky balm formula. Gently dissolves makeup and SPF, conditions lashes.
-Details: Lightweight makeup remover quickly dissolves tenacious eye and face makeups, sunscreens. Transforms from a solid balm into a silky oil upon application. Cleans thoroughly, rinses off completely. Gently helps remove the stress of pollution so skin looks younger, longer. Non-greasy. Non-drying.  Results Over 95% removal of face makeup, sunscreen, and pollutants.**Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.   Formula Facts Non-comedogenic.Non-greasy.Non-drying.Allergy tested.
-Ingredients: Safflower Seed Oil: Works efficiently to help break up natural oil found on skin, as well as dissolves hard-to-remove makeup. Rich in linoleic acid, this natural emollient helps leave skin feeling soft and nourished.
-How to use: Use before cleanser and other treatment products. Massage balm over dry skin with dry fingertips. Rinse well with warm water. Pat dry. Follow with cleanser, then apply eye cream, serum, and moisturizer.
-Results: Over 95% removal of face makeup, sunscreen, and pollutants.* *Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.
-Rating: 5.0
-
-
-Product name: Anti-Blemish Solutions™ Clarifying Lotion
+Product Name: Anti-Blemish Solutions™ Clarifying Lotion
 Category: Exfoliators & Toners
-Price: ₹3,100.00
+Price: $$37.35
 Description: Gentle, medicated liquid exfoliator reduces excess oil and shine, mattifies skin, and unclogs pores.
 Details: Liquid face exfoliator powered by salicylic acid helps keep skin clearer and controls shine. Exfoliating ingredients sweep away dead surface cells and reduce excess oil that can lead to breakouts. Oil-absorbing powders help eliminate shine. Leaves skin feeling clean and fresh.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Salicylic Acid and Acetyl Glucosamine: Help clear dead skin cells that can contribute to clogged pores. Silica: Absorbs excess oil to give skin a matte look.
@@ -436,20 +387,9 @@ Results: N/A
 Rating: nan
 
 
-Product name: Superdefense™ Broad Spectrum SPF 25 Fatigue + 1st Signs Of Age Multi-Correcting Cream
-Category: Moisturizers & Face Creams
-Price: ₹3,600.00
-Description: A refreshing silky cream with SPF that fights fatigue and first signs of aging.
-Details: Awakens instantly and continuously, with 12 hours of anti-fatigue radiance for more youthful-looking skin. Helps visibly correct first signs of aging, uneven texture, dullness, fine lines and wrinkles. Helps defend against a full spectrum of modern aggressors. Sweat and humidity resistant. Oil-free.Our Clinique Clean PhilosophySimple. Safe. Effective. Allergy tested. 100% fragrance free.
-Ingredients: N/A
-How to use: Apply in AM on clean skin. For optimal use, use with Clinique Fresh Pressed Daily Booster with Pure Vitamin C 10%.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Anti-Blemish Solutions™ Clinical Clearing Gel
+Product Name: Anti-Blemish Solutions™ Clinical Clearing Gel
 Category: Blemish Treatments
-Price: ₹1,500.00
+Price: $$18.07
 Description: Topical treatment for breakouts with salicylic acid. Gets results as good as a leading prescription for clearing acne.\In a 12-week clinical study.
 Details: Prescription-strength gel formula with salicylic acid helps clear blemishes. Also helps prevent new ones from making an unwelcome appearance. If you have acne-prone skin with persistent breakouts, use this fast-drying formula all over your face or as a spot treatment.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Salicylic Acid: Helps clear dead skin cells that can contribute to clogged pores. Laminaria Saccharina Extract: Helps prevent oil buildup that can lead to breakouts. Witch Hazel: Helps de-shine skins surface and tighten pores. Benzalkonium Chloride: Helps balance skin.
@@ -458,9 +398,9 @@ Results: N/A
 Rating: 3.0
 
 
-Product name: Clinique For Men™ Oil Control Face Wash
+Product Name: Clinique For Men™ Oil Control Face Wash
 Category: Cleansers & Face Wash
-Price: ₹3,150.00
+Price: $$37.95
 Description: Oil-free cleanser for normal to oily skins.
 Details: Thoroughly cleanses normal to oily skins, removes excess shine. Leaves skin feeling fresh, comfortable, never tight or dry. Preps skin for a comfortable shave.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: N/A
@@ -469,20 +409,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Clinique For Men™ Maximum Hydrator Activated Water-Gel Concentrate
-Category: Moisturizers & Face Creams
-Price: ₹3,950.00
-Description: Supercharged hydrator instantly refreshes and quenches dehydrated skin.
-Details: An instant moisture boost. Water-gel formula is ultralight, yet intensely hydrates to boost skin's moisture reserves for a full 72 hours. Innovative Liquid-Sphere Technology combines water-binding ingredients with encapsulated antioxidants to help break the cycle of dryness and environmental stress that can age skin's appearance. Absorbs instantly, leaving skin soothed, comfortable, fresh.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: N/A
-How to use: Apply AM and PM on clean skin.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Take The Day Off™ Charcoal Cleansing Balm
+Product Name: Take The Day Off™ Charcoal Cleansing Balm
 Category: Cleansers & Face Wash
-Price: ₹3,800.00
+Price: $$45.78
 Description: Our #1 makeup remover in a silky balm formula that gently dissolves makeup. Now with detoxifying Japanese charcoal.
 Details: Lightweight makeup remover quickly dissolves tenacious eye and face makeups, sunscreens.Detoxifies and unclogs pores, helping clear dirt, oil, pollution, and other impurities.Transforms from a solid balm into a silky oil upon application.Cleans thoroughly, rinses off completely—without leaving an oily or greasy residue behind.  Results Over 95% removal of face makeup, sunscreen, and pollutants.**Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.   Formula Facts Non-acnegenicNon-greasyNon-dryingNon-strippingAllergy testedOphthalmologist testedDermatologist tested
 Ingredients: Japanese charcoal: This purifying ingredient helps deeply cleanse and detoxifies pores. Safflower seed oil: Works efficiently to help break up natural oil found on skin, as well as dissolves hard-to-remove makeup. Rich in linoleic acid, this natural emollient helps leave skin feeling soft and nourished.
@@ -491,9 +420,9 @@ Results: Over 95% removal of face makeup, sunscreen, and pollutants.* *Average r
 Rating: 4.33
 
 
-Product name: Clarifying Lotion 1.0
+Product Name: Clarifying Lotion 1.0
 Category: Exfoliators & Toners
-Price: ₹3,000.00
+Price: $$36.14
 Description: Extra-gentle exfoliating lotion for dry, sensitive skin. Dermatologist-developed.
 Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks more radiant.Looks smoother.*Clinical testing on 20 women, after using the product one time.   Formula Facts Allergy tested. Dermatologist Developed. Non-Acnegenic. Appropriate for Sensitive Skin.
 Ingredients: N/A
@@ -502,31 +431,9 @@ Results: Instantly delivers clinically proven benefits*, for skin that: Looks mo
 Rating: 4.33
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Cream
-Category: Moisturizers & Face Creams
-Price: ₹8,200.00
-Description: Wrinkle-fighting cream helps strengthen and nourish for smoother, younger-looking skin.
-Details: A powerful addition to our most advanced de-aging line yet, Clinique Smart Clinical Repair™, this ultra-nourishing moisturizer is engineered to visibly reduce lines and wrinkles for supple, younger-looking skin.Our cutting-edge formula with CL1870 Peptide Complex™ helps boost skin’s natural collagen to help fortify the dermal structure, leaving skin feeling stronger and looking smoother.Plumps skin with lasting hydration. 50ml and 15ml jars each contain a minimum of 30% post-consumer recycled content.Carton is made from responsibly sourced paperboard. Please recycle.  Formula Facts Clinically proven.Dermatologist tested.Allergy tested.
-Ingredients: CL1870 Peptide Complex™: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Hyaluronic acid: Our formula uses two molecular weights of hyaluronic acid. This intense humectant helps flood your skin with hydration—and holds on. Helps restore suppleness and visibly smooth fine, dry lines. Soybean seed extract: An ingredient rich in lysophosphatidic acid (LPA), which nourishes to help fortify skin. Shea butter: Found in our Rich Cream, it contains lipids that form skin’s barrier and is integral to keeping drier skin hydrated.
-How to use: Use twice a day, morning, and night. Apply to face and neck after using Clinique Smart Clinical Repair™ Wrinkle Correcting Serum. Follow with Clinique Smart Clinical Repair™ Wrinkle Correcting Eye Cream for the ultimate de-aging routine. Always include SPF as the last step in the AM.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Even Better Clinical™ Radical Dark Spot Corrector + Interrupter
-Category: Face Serums
-Price: ₹1,650.00
-Description: Potent brightening serum for hyperpigmentation helps visibly improve dark spots and uneven skin tone. See a 39% visible reduction in dark spots in 12 weeks.*
-Details: Our “damage eraser” with CL302 Brightening Complex™ is now more concentrated, with boosted technology to deliver dramatic brightening results—yet is still gentle enough for all skin types.Features our proprietary brightening molecule and vitamin C for a more even-looking skin tone, including acne pigmentation marks. Plus improves the look of hyperpigmentation, such as existing dark spots, and interrupts the look of future dark spots, too.In just 2.5 hours helps quell redness from irritation that can trigger new visible spots and worsen existing spots.*Penetrates up to 21 layers deep into skin’s surface.***After pre-treatment period; clinical testing on 26 people, measured for 150 minutes, versus untreated control.**Ex vivo testing after 4 hours.  Results Tested on 500+ women across melanin-rich to fair skin tones.In 7 days:84% say skin looks more radiant.*93% say skin feels soothed & calmer.**Consumer testing on 536 women.In 28 days:90% say skin looks brighter.**89% say skin looks more even.**81% say the look of dark spots, including sun spots, was reduced.**83% say the look of acne marks was reduced.*****Consumer testing on 533 women.***Consumer testing on 433 women.   Formula Facts Allergy tested. Dermatologist Developed. Non Acnegenic.
-Ingredients: CL302 Brightening Complex™™ with vitamin C targets dark spots in two ways: helps visibly correct with the CL302 Complex and interrupts future ones with the Interrupter Complex. CL302 Complex: with 2X the brightening dose helps visibly reduce dark spots and discoloration. It includes the following: UP302 (dimethoxytolyl propylresorcinol): A targeted brightening molecule inspired by border silver, or dianella ensifolia, a botanical known in traditional Chinese medicine for its antioxidant properties. Vitamin C (ascorbyl glucoside): Potent brightening antioxidant helps to visibly reduce dark spots and even skin tone. Salicylic acid: Gently sloughs off the uppermost layers of the skin to help reveal fresher, more even-looking skin. Glucosamine: Helps weaken the bonds that hold dead skin cells together to encourage the exfoliation of surface discoloration for brighter, more even-looking skin. Yeast extract: Clinique’s “cluster buster” helps break up (exfoliate) large clusters of excess pigment (dark spots) so they’re less visible. Interrupter Complex: with a cocktail of soothing ingredients helps minimize visible irritation to interrupt the look of future discoloration. It includes the following: Gyokuro (camellia sinensis leaf) extract: A green tea harvested with a special method in Japan that helps quell the look of irritation. Rice bran extract: A potent antioxidant and anti-irritant, it helps to prevent the look of future dark spots by defending skin against damaging free radicals.
-How to use: Use twice a day, morning and night. Dispense 1 to 2 pumps onto fingertips. Spread serum all over your face, avoiding eye area. Follow with moisturizer. Daily sunscreen is imperative. Apply in the A.M. after your moisturizer.
-Results: Tested on 500+ women across melanin-rich to fair skin tones. In 7 days: 84% say skin looks more radiant.* 93% say skin feels soothed & calmer.* *Consumer testing on 536 women. In 28 days: 90% say skin looks brighter.** 89% say skin looks more even.** 81% say the look of dark spots, including sun spots, was reduced.** 83% say the look of acne marks was reduced.*** **Consumer testing on 533 women. ***Consumer testing on 433 women.
-Rating: 3.75
-
-
-Product name: All About Clean™ 2-in-1 Cleansing + Exfoliating Jelly
+Product Name: All About Clean™ 2-in-1 Cleansing + Exfoliating Jelly
 Category: Exfoliators & Toners
-Price: ₹3,750.00
+Price: $$45.18
 Description: Deep-cleaning jelly cleanses and exfoliates to help remove buildup from pollution and other impurities.
 Details: Two-in-one formula with two kinds of exfoliants—salicylic acid and bamboo beads—is designed to be more powerful than a cleanser alone, yet is gentle enough for everyday use. Leaves skin feeling smooth and refreshed with a radiant glow.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Salicylic Acid: Powerful exfoliant that helps clear dead skin cells that can contribute to clogged pores. Silica Beads and Bamboo Powder: Physical exfoliants which aid in the removal of dead surface skin cells.
@@ -535,9 +442,9 @@ Results: N/A
 Rating: 5.0
 
 
-Product name: Take The Day Off™ Makeup Remover For Lids, Lashes & Lips
+Product Name: Take The Day Off™ Makeup Remover For Lids, Lashes & Lips
 Category: Cleansers & Face Wash
-Price: ₹2,950.00
+Price: $$35.54
 Description: Clinique's bestselling makeup remover. Totally tugless formula whisks away makeup. Non-irritating, non-stinging.
 Details: Dissolves and lifts away long-wearing makeup, even waterproof mascara. Non-irritating, non-stinging.  Formula Facts Allergy tested. Ophthalmologist Tested.
 Ingredients: N/A
@@ -546,9 +453,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Moisture Surge™ Hydrating Supercharged Concentrate
+Product Name: Moisture Surge™ Hydrating Supercharged Concentrate
 Category: Moisturizers & Face Creams
-Price: ₹3,950.00
+Price: $$47.59
 Description: Antioxidant-infused water-gel gives skin an intense moisture boost. Hydrates for a full 72 hours.
 Details: Helps break the cycle of dryness and environmental stress that can lead to premature aging.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Liquid-Sphere™ Technology combines water-binding ingredients with encapsulated antioxidants. Hyaluronic Acid fragments and Activated Aloe Water plump skin with moisture.
@@ -557,9 +464,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Moisture Surge™ SPF 25 Sheer Hydrator
+Product Name: Moisture Surge™ SPF 25 Sheer Hydrator
 Category: Moisturizers & Face Creams
-Price: ₹3,850.00
+Price: $$46.39
 Description: Cloud-like cream with SPF hydrates and delivers sheer sun protection.
 Details: Skin Type All Skin Types   Results 100% show a boost in hydration* and glow.**95% say skin feels instantly moisturized.***95% say skin feels protected.****93% say skin has a healthy glow, not shiny. ****96% say product looks invisible on skin.****96% say product feels weightless on skin. *****Clinical testing on 24 women immediately after using the product.**Clinical testing on 27 women immediately after using the product.***Consumer testing on 165 women after using the product one time.****Consumer testing on 164 women after using the product for one week.
 Ingredients: N/A
@@ -568,9 +475,9 @@ Results: 100% show a boost in hydration* and glow.** 95% say skin feels instantl
 Rating: 4.33
 
 
-Product name: Moisture Surge™ 100H Auto-Replenishing Hydrator
+Product Name: Moisture Surge™ 100H Auto-Replenishing Hydrator
 Category: Moisturizers & Face Creams
-Price: ₹2,250.00
+Price: $$27.11
 Description: Refreshing oil-free face moisturizer with aloe bioferment and hyaluronic acid delivers instant hydration that soothes in 3 seconds. 100% instantly show a boost in hydration and glow.
 Details: Many things can dehydrate your skin, including weather, pollution, blue light, time spent in the sun, mask wearing, air travel, air conditioning, and heating.Fight back against life’s daily dehydrations. This oil-free gel-cream moisturizer with Aloe Bioferment + HA Complex penetrates deep into skin’s surface—for 100 hours of stabilizing hydration.Plus an antioxidant blend of vitamins C and E helps protect against dehydrators, so your skin is more resilient.Skin feels soothed with hydration in 3 seconds, and it keeps on glowing.Provides a smooth canvas for makeup application.  Results After one use:Boosts moisture immediately by +174%.Provides 100 hours of stabilizing hydration.After one week:99% say skin feels deeply hydrated.*95% say skin looks plump.*91% say skin looks glowing.*98% say skin feels more resilient.*95% say skin feels healthier.**Consumer testing on 110 women.   Formula Facts Dermatologist testedAllergy testedNon-Acnegenic.
 Ingredients: Aloe Bioferment + HA Complex combines two hydrating ingredients into one powerhouse complex to help attract moisture and retain it: Aloe bioferment: Built on more than 30 years of research in fermentation technology, this hydrating ingredient starts with the aloe vera plant, which is concentrated over 500 times. It’s further transformed into a bioferment through a meticulous 10-step fermentation process over 5+ days. This process breaks down actives into smaller molecules, so they are more bioavailable to better penetrate skin. The result: a nutrient-rich ingredient that helps skin retain moisture. Hyaluronic acid: This moisture-binding ingredient helps create a “moisture reservoir” for ideal hydration. Our formula is expertly blended with two different molecular weights of hyaluronic acid. Other key ingredients include: Blend of vitamins C and E: Helps provide antioxidant protection against daily dehydrators. Activated aloe water: Pure water is infused with aloe barbadensis leaf extract, then supercharged to hold both positive and negative ionic charges. Auto-Replenishing Technology: Using activated aloe water and caffeine, it helps trigger skin’s own rehydration system.
@@ -579,31 +486,9 @@ Results: After one use: Boosts moisture immediately by +174%. Provides 100 hours
 Rating: 4.33
 
 
-Product name: Clarifying Lotion 1.0
-Category: Exfoliators & Toners
-Price: ₹3,000.00
-Description: Extra-gentle exfoliating lotion for dry, sensitive skin. Dermatologist-developed.
-Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks more radiant.Looks smoother.*Clinical testing on 20 women, after using the product one time.   Formula Facts Allergy tested. Dermatologist Developed. Non-Acnegenic. Appropriate for Sensitive Skin.
-Ingredients: N/A
-How to use: Use exfoliating lotion twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with Step 3: Dramatically Different Moisturizing Lotion+, Gel or Jelly.
-Results: Instantly delivers clinically proven benefits*, for skin that: Looks more radiant. Looks smoother. *Clinical testing on 20 women, after using the product one time.
-Rating: 4.33
-
-
-Product name: Anti-Blemish Solutions™ Clinical Clearing Gel
+Product Name: Anti-Blemish Solutions™ All-Over Clearing Treatment
 Category: Blemish Treatments
-Price: ₹1,500.00
-Description: Topical treatment for breakouts with salicylic acid. Gets results as good as a leading prescription for clearing acne.\In a 12-week clinical study.
-Details: Prescription-strength gel formula with salicylic acid helps clear blemishes. Also helps prevent new ones from making an unwelcome appearance. If you have acne-prone skin with persistent breakouts, use this fast-drying formula all over your face or as a spot treatment.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Salicylic Acid: Helps clear dead skin cells that can contribute to clogged pores. Laminaria Saccharina Extract: Helps prevent oil buildup that can lead to breakouts. Witch Hazel: Helps de-shine skins surface and tighten pores. Benzalkonium Chloride: Helps balance skin.
-How to use: Apply a thin layer to entire face twice a day after cleansing. Spot-apply if you are using another leave-on acne treatment. Using other topical acne drugs at the same time or right after use of this product may increase dryness or irritation of skin. If this occurs, only one medication should be used unless directed by a doctor.
-Results: N/A
-Rating: 3.0
-
-
-Product name: Anti-Blemish Solutions™ All-Over Clearing Treatment
-Category: Blemish Treatments
-Price: ₹3,000.00
+Price: $$36.14
 Description: Lightweight, medicated formula helps clear and prevent blemishes. Calms, soothes, reduces redness.
 Details: Helps treat existing acne and prevent future breakouts. Creates a barrier against acne-causing agents. Helps control excess oil. Lightly hydrates to minimize dryness and peeling. Calms, soothes, visibly reduces redness.  Results Use the Clear Skin System, see visible reduction of blemishes starting in 3 days.*The best way to get breakouts under control is a consistent, non-irritating routine. Each step of Clinique’s Anti-Blemish Solutions Clear Skin System has a purpose: cleanse, exfoliate, treat. All 3 steps work together to get powerful results in just 3 days. With consistent twice-a-day use, the results just keep getting better.Improvement in active blemishes:1 Week: 47%4 Weeks: 54%6 Weeks: 73%12 Weeks: 81%  *Clinical testing on 66 panels using Anti-Blemish Solutions Cleansing Foam, Anti-Blemish Solutions Clarifying Lotion and Anti-Blemish Solutions Allover Clearing Treatment twice daily for 3 days.   Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Acne-fighting Benzoyl Peroxide treats and prevents blemishes and breakouts. Acetyl Glucosamine helps clear dead skin cells that can contribute to clogged pores.
@@ -612,31 +497,9 @@ Results: Use the Clear Skin System, see visible reduction of blemishes starting 
 Rating: nan
 
 
-Product name: Dramatically Different™ Moisturizing Gel
-Category: Moisturizers & Face Creams
-Price: ₹2,800.00
-Description: Dermatologist-developed oil-free face moisturizer balances and refreshes oilier skin types.
-Details: Delivers 8 hours of lightweight, oil-free hydration.Replenishes skin’s oil-water balance for healthy skin, refreshing oilier skin types.Slips on easily, absorbs quickly.  Results In 4 hours, starts to strengthen skin’s moisture barrier.Instantly boosts skin’s moisture by 94%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
-Ingredients: Natural moisturizing factors: Also known as NMFs, these humectants occur naturally in skin. They help pull in water and bind moisture to skin to help keep it hydrated and balanced. Infused with a blend of barley, sunflower, and cucumber.
-How to use: Spread all over face/throat twice daily, or where needed. For best results, use after Facial Soap and Clarifying Lotion.
-Results: In 4 hours, starts to strengthen skin’s moisture barrier. Instantly boosts skin’s moisture by 94%.
-Rating: 4.33
-
-
-Product name: Anti-Blemish Solutions™ Clarifying Lotion
-Category: Exfoliators & Toners
-Price: ₹3,100.00
-Description: Gentle, medicated liquid exfoliator reduces excess oil and shine, mattifies skin, and unclogs pores.
-Details: Liquid face exfoliator powered by salicylic acid helps keep skin clearer and controls shine. Exfoliating ingredients sweep away dead surface cells and reduce excess oil that can lead to breakouts. Oil-absorbing powders help eliminate shine. Leaves skin feeling clean and fresh.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Salicylic Acid and Acetyl Glucosamine: Help clear dead skin cells that can contribute to clogged pores. Silica: Absorbs excess oil to give skin a matte look.
-How to use: Use lotion twice a day, morning and night. Shake well. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with a lightweight, oil-free hydrator like Dramatically Different™ Moisturizing Gel.
-Results: N/A
-Rating: nan
-
-
-Product name: Skin School Supplies Set: Cleanser Refresher Course For Dry Skin
+Product Name: Skin School Supplies Set: Cleanser Refresher Course For Dry Skin
 Category: Skincare Gifts
-Price: ₹2,000.00
+Price: $$24.1
 Description: 3 steps to clean, healthy looking skin.
 Details: The secret to great skin? It’s this simple: three steps, three minutes, twice a day. This kit includes everything you need to upgrade your cleansing routine to Clinique’s signature 3-step system. This kit brings together favorite products from Clinique’s popular Skin School class. Step 1: Cleanse. All About Clean™ Liquid Facial Soap loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance. Preps skin for the exfoliating action of Step 2. Step 2: Exfoliate. The Clarifying Lotion sweeps away pollution, grime, dulling flakes to reveal smoother, brighter skin. Leaves skin more receptive to hydration and treatment products. Step 3: Moisturize. Dramatically Different™ Moisturizing Lotion+ delivers 8-hour, skin-strengthening hydration.  And, in 4 hours, it strengthens skin’s moisture barrier by 34%*. Softens, smooths, improves, and leaves skin glowing.  *Clinical testing on 20 women after using product once.  What's In Your Set All About Clean™ Liquid Facial Soap Mild, 30 mlClarifying Lotion 2 Twice A Day Exfoliator, 60 mlDramatically Different™ Moisturizing Lotion+, 30ml   Skin Type Dry and Combination skin   Formula Facts Allergy Tested
 Ingredients: N/A
@@ -645,9 +508,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Dramatically Different™ Hydrating Jelly
+Product Name: Dramatically Different™ Hydrating Jelly
 Category: Moisturizers & Face Creams
-Price: ₹5,150.00
+Price: $$62.05
 Description: Lightweight water-jelly face moisturizer delivers 24-hour hydration repair plus pollution protection.
 Details: 24-hour moisturizer hydrator with Clean Shield Technology™ locks in the good—like moisture—and helps keep out the bad. Helps strengthen skin’s moisture barrier and improves resiliency.Skin is hydrated, leaving it smooth, strong, and healthy with a pure, clean glow.Replenishes skin’s oil-water balance for healthy skin.Unique water-jelly texture feels fresh, penetrates quickly.Oil-free formula is non-sticky, leaves no residue.  Results Improves skin’s barrier strength in 1 week.Instantly boosts skin’s moisture by 115%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
 Ingredients: Clean Shield Technology™: Formulated with a botanical blend of sunflower seed cake, barley extract, and cucumber fruit extract. Hyaluronic acid: Acts as a natural moisture magnet/humectant.
@@ -656,9 +519,9 @@ Results: Improves skin’s barrier strength in 1 week. Instantly boosts skin’s
 Rating: 4.33
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Serum
+Product Name: Clinique Smart Clinical Repair™ Wrinkle Correcting Serum
 Category: Face Serums
-Price: ₹9,550.00
+Price: $$115.06
 Description: Clinique's most advanced anti-aging serum with 9.5% peptides and 1% advanced retinoid. Helps reduce the look of wrinkles, visibly lift, smooth, firm, and boost radiance. 100% show visibly reduced lines and wrinkles.*
 Details: Dermal-active formula targets signs of aging from three separate angles.Repairs: strengthen skin to reduce the look of wrinkles.Resurfaces: Accelerates cell turnover and smooths skin.Replumps: Hydrates skin and instantly minimizes the appearance of fine, dry lines.  Results Effective as a laser on the look of lines and wrinkles.*Instant reduction in fine, dry lines.In 10 days:84% say deeper wrinkles look reduced.**94% say skin feels smoother.**90% say skin feels firmer.**87% say skin feels more plumped.**92% agree it’s gentle and non-irritating.**In 4 weeks:88% say skin looks lifted.***In 16 weeks:32% visible reduction in stubborn lines.*****In a clinical study after 16 weeks, women who had one laser treatment showed the same improvement in the overall look of lines and wrinkles as those who used Smart Serum twice daily instead. Laser used: microablative, deka dot SmartSkin CO2™ (Cynosure, Westford, MA) with CO2 fractional tech.**Consumer testing on 358 women.***Consumer testing on 354 women.****Upper lateral dynamic lines; clinical testing on 59 women after 16 weeks.   Formula Facts Safe for sensitive skin.Dermatologist developed.Dermatologist tested.Allergy tested.
 Ingredients: Peptides: Help boost skin’s strength for a smoother appearance. Our formula with CL1870 Laser Focus Complex™ includes “self-assembly,” “neuropeptide,” and “signaling peptides”: Palmitoyl tripeptide-1 Acetyl hexapeptide-8 Palmitoyl tetrapeptide-7 Palmitoyl hexapeptide-12 Advanced retinoid: The next generation of retinol, formulated for high-performance and gentle enough to use twice a day. Helps accelerate skin’s natural cell renewal to visibly reduce wrinkles. Hyaluronic acid: Instantly hydrates and plumps skin, helping minimize the look of fine, dry lines. Helps restore a youthful, supple appearance. Optimizing blend of caffeine and algae extract helps reduce irritation.
@@ -667,20 +530,9 @@ Results: Effective as a laser on the look of lines and wrinkles.* Instant reduct
 Rating: 0.0
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Rich Cream
+Product Name: Superdefense™ SPF 40 Fatigue + 1st Signs of Age Multi Correcting Gel
 Category: Moisturizers & Face Creams
-Price: ₹8,200.00
-Description: Wrinkle-fighting cream helps strengthen and nourish for smoother, younger-looking skin.
-Details: A powerful addition to our most advanced de-aging line yet, Clinique Smart Clinical Repair™, this ultra-nourishing moisturizer is engineered to visibly reduce lines and wrinkles for supple, younger-looking skin.Our cutting-edge formula with CL1870 Peptide Complex™ helps boost skin’s natural collagen to help fortify the dermal structure, leaving skin feeling stronger and looking smoother.Plumps skin with lasting hydration. 50ml and 15ml jars each contain a minimum of 30% post-consumer recycled content.Carton is made from responsibly sourced paperboard. Please recycle.  Formula Facts Clinically proven. Oil-free.Dermatologist tested.Fragrance-free.Allergy tested.
-Ingredients: CL1870 Peptide Comple™: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Hyaluronic acid: Our formula uses two molecular weights of hyaluronic acid. This intense humectant helps flood your skin with hydration—and holds on. Helps restore suppleness and visibly smooth fine, dry lines. Soybean seed extract: An ingredient rich in lysophosphatidic acid (LPA), which nourishes to help fortify skin. Shea butter: Found in our Rich Cream, it contains lipids that form skin’s barrier and is integral to keeping drier skin hydrated.
-How to use: Use twice a day, morning and night. Apply to face and neck after using Clinique Smart Clinical Repair™ Wrinkle Correcting Serum. Follow with Clinique Smart Clinical Repair™ Wrinkle Correcting Eye Cream for the ultimate de-aging routine. Always include SPF as the last step in the AM.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Superdefense™ SPF 40 Fatigue + 1st Signs of Age Multi Correcting Gel
-Category: Moisturizers & Face Creams
-Price: ₹6,000.00
+Price: $$72.29
 Description: A refreshing silky gel with SPF that fights fatigue and first signs of aging.
 Details: Awakens instantly and continuously, with 12 hours of anti-fatigue radiance for more youthful-looking skin. Helps visibly correct first signs of aging, uneven texture, dullness, fine lines and wrinkles. Helps defend against a full spectrum of modern aggressors. Sweat and humidity resistant. Oil-free.Our Clinique Clean PhilosophySimple. Safe. Effective. Allergy tested. 100% fragrance free.
 Ingredients: N/A
@@ -689,9 +541,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Clinique For Men™ Maximum Hydrator 72-Hour Auto-Replenishing Hydrator
+Product Name: Clinique For Men™ Maximum Hydrator 72-Hour Auto-Replenishing Hydrator
 Category: Moisturizers & Face Creams
-Price: ₹3,750.00
+Price: $$45.18
 Description: Refreshing cream-gel instantly boosts hydration and rehydrates for 72 hours.
 Details: Advanced hydrator delivers an instant moisture boost and rehydrates for 72 hours. Helps skin create its own internal water source to continually rehydrate itself. Then locks in all that moisture for hydrated, healthy-looking skin.  Formula Facts Allergy tested. Non-Acnegenic. Dermatologist Tested.
 Ingredients: Auto Replenishing Technology with caffeine helps trigger skins own rehydration system. Hyaluronic Acid fragments and Activated Aloe Water infuse skin with moisture. A super-holding matrix of humectants and polymers help reduce water loss and seal in moisture.
@@ -700,9 +552,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Moisture Surge™ Active Glow Serum
+Product Name: Moisture Surge™ Active Glow Serum
 Category: Face Serums
-Price: ₹4,500.00
+Price: $$54.22
 Description: A first-ever serum from our most-loved Moisture Surge collection. Formulated with powerful actives, it exfoliates, hydrates, and brightens to give skin an instant and continuous glow. Clinically proven.Dermatologist tested. Safe for sensitive skin. Allergy tested. 100% fragrance free. Tested on all skin tones.
 Details: Powerful ways to glowExfoliates: Clinically proven to promote skin’s natural cell turnover to reveal fresher, smoother skin. Exfoliation is known to help other ingredients absorb more easily. Hydrates: Plumps up skin with a clinical increase in hydration. Brightens: Helps boost skin’s glow.Lightweight, milky textureRefreshing serum sinks right into skin. Layers well with moisturizer and under makeup.    Results After one use:94% show instantly smoother-feeling skin.*97% show an instant boost in hydration.*100% show an instant boost in radiance.*Visibly improves skin texture, pore appearance, and fine, dry lines.  In 8 hours:Clinically improves skin’s radiance.*  In 1 week:93% say the product is gentle and non-irritating.**90% say skin looks more hydrated.**In 2 weeks:95% say skin feels soothed with moisture.*** 91% agree this product pairs well with my moisturizer.****91% say skin looks healthier.***In 28 days:90% show visibly improved skin texture.*****  *Clinical testing on 31 women after using the product once.**Consumer testing on 165 women after 1 week of product use.***Consumer testing on 165 women after 2 weeks of product use.****Consumer testing on 105 women after 2 weeks of product use.*****Clinical testing on 31 women after using the product for 28 days.     Formula Facts Clinical Expertise Dermatologist testedSafe for sensitive skinTested on all skin tonesAllergy testedFragrance freeNon-comedogenic
 Ingredients: 5% lactic acid Helps exfoliate dulling dead skin cells, helping actives to better sink in. Hyaluronic acid Moisture-binding ingredient helps infuse skin with plumping hydration. Vitamin C Powerful antioxidant helps brighten the look of skin.
@@ -711,9 +563,9 @@ Results: After one use: 94% show instantly smoother-feeling skin.* 97% show an i
 Rating: 4.33
 
 
-Product name: Even Better Eyes™ Dark Circle Corrector
+Product Name: Even Better Eyes™ Dark Circle Corrector
 Category: Eye Care
-Price: ₹5,050.00
+Price: $$60.84
 Description: Refreshing eye-area treatment instantly brightens all skin tones.
 Details: Brightens the appearance of the eye area and reduces the look of dark circles. Hydrates and smooths too. Cooling metal tip helps massage away puffiness.  Formula Facts Ophthalmologist tested. Allergy tested. Safe for contact lens wearers.
 Ingredients: N/A
@@ -722,42 +574,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: All About Clean™ 2-in-1 Cleansing + Exfoliating Jelly
-Category: Exfoliators & Toners
-Price: ₹3,750.00
-Description: Deep-cleaning jelly cleanses and exfoliates to help remove buildup from pollution and other impurities.
-Details: Two-in-one formula with two kinds of exfoliants—salicylic acid and bamboo beads—is designed to be more powerful than a cleanser alone, yet is gentle enough for everyday use. Leaves skin feeling smooth and refreshed with a radiant glow.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Salicylic Acid: Powerful exfoliant that helps clear dead skin cells that can contribute to clogged pores. Silica Beads and Bamboo Powder: Physical exfoliants which aid in the removal of dead surface skin cells.
-How to use: Wet face and hands. Dispense dime sized jelly face wash amount into hands. Work into a lather and massage over skin. Rinse well several times with lukewarm water. Avoid eye area.
-Results: N/A
-Rating: 5.0
-
-
-Product name: Moisture Surge™ Face Spray Thirsty Skin Relief
-Category: Moisturizers & Face Creams
-Price: ₹3,800.00
-Description: Spritz on a refreshing boost of oil-free moisture anytime. Light mist softens and soothes in a flash.
-Details: Bursting with moisture and activated aloe water, this must-have oil-free face spray immediately hydrates, softening and soothing skin in a flash. Portable size means you can enjoy an instant spritz of refreshing moisture anytime. Oil-Free. Ophthalmologist Tested.  Formula Facts Allergy tested. Ophthalmologist Tested.
-Ingredients: N/A
-How to use: Hold 10-12 from face. Close eyes and spray a light mist. Use in addition to daily moisturizer, under or over makeup, whenever skin feels thirsty. Avoid spraying into eyes.
-Results: N/A
-Rating: 5.0
-
-
-Product name: Clinique Smart Clinical Repair™ AM/PM Retinoid Balm
-Category: Face Serums
-Price: ₹3,500.00
-Description: nan
-Details: Plumps the look of fine, dry lines.Helps visibly correct even the most stubborn lines, including forehead lines, frown lines (a.k.a. “11” lines), crow’s feet, vertical lines around the lips, and smile lines.Helps smooth the appearance of skin’s texture.Gentle enough to use morning and night.Provides precise application in an easy-to-use stick format.
-Ingredients: N/A
-How to use: Apply to lines AM and PM. Avoid getting in eyes and avoid direct contact with lips. Use sunscreen and limit sun exposure while using and the week after.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Moisture Surge Eye™ 96-Hour Hydro-Filler Concentrate
+Product Name: Moisture Surge Eye™ 96-Hour Hydro-Filler Concentrate
 Category: Eye Care
-Price: ₹3,850.00
+Price: $$46.39
 Description: Ultralight water-gel delivers intense, crease-plumping hydration. Instantly re-floods, tightens, and brightens skin.
 Details: Instantly re-floods, tightens and brightens skin. Hydrates delicate eye area for 96 hours of moisture using Auto-Replenishing Lipid-Sphere Technology.  Formula Facts Allergy tested. Ophthalmologist Tested. Dermatologist Tested. Non-Acnegenic. Appropriate for Contact Lens Wearers.
 Ingredients: Auto-Replenishing Lipid-Sphere Technology with pure aloe butter helps rebuild skin’s lipid barrier to minimize moisture loss while encapsulated antioxidants help break the cycle of environmental stress that can lead to premature aging.
@@ -766,31 +585,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Skin School Supplies Set: Cleanser Refresher Course For Dry Skin
-Category: Skincare Gifts
-Price: ₹2,000.00
-Description: 3 steps to clean, healthy looking skin.
-Details: The secret to great skin? It’s this simple: three steps, three minutes, twice a day. This kit includes everything you need to upgrade your cleansing routine to Clinique’s signature 3-step system. This kit brings together favorite products from Clinique’s popular Skin School class. Step 1: Cleanse. All About Clean™ Liquid Facial Soap loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance. Preps skin for the exfoliating action of Step 2. Step 2: Exfoliate. The Clarifying Lotion sweeps away pollution, grime, dulling flakes to reveal smoother, brighter skin. Leaves skin more receptive to hydration and treatment products. Step 3: Moisturize. Dramatically Different™ Moisturizing Lotion+ delivers 8-hour, skin-strengthening hydration.  And, in 4 hours, it strengthens skin’s moisture barrier by 34%*. Softens, smooths, improves, and leaves skin glowing.  *Clinical testing on 20 women after using product once.  What's In Your Set All About Clean™ Liquid Facial Soap Mild, 30 mlClarifying Lotion 2 Twice A Day Exfoliator, 60 mlDramatically Different™ Moisturizing Lotion+, 30ml   Skin Type Dry and Combination skin   Formula Facts Allergy Tested
-Ingredients: N/A
-How to use: N/A
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clarifying Lotion 3
-Category: Exfoliators & Toners
-Price: ₹3,000.00
-Description: Exfoliating lotion for combination-oily skin. Sweeps away dulling flakes and excess oil. Dermatologist-developed.
-Details: Gentle, refreshing exfoliating lotion formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation he surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 31 men and women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: N/A
-How to use: Use exfoliating lotion twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with Step 3: Dramatically Different Moisturizing Lotion+, Gel or Jelly.
-Results: Instantly delivers clinically proven benefits*, for skin that: Looks smoother. Looks more radiant. With less-noticeable pores. *Clinical testing on 31 men and women, after using product one time.
-Rating: 4.33
-
-
-Product name: Clinique Happy™ For Men Cologne Spray
+Product Name: Clinique Happy™ For Men Cologne Spray
 Category: Perfume
-Price: ₹6,000.00
+Price: $$72.29
 Description: Cool. Crisp. A hint of citrus. A refreshing scent for men. Wear it and be happy.
 Details: Team with Clinique Happy For Men and grooming favourites for longer-lasting scent.  Top Notes Tart Kaffir Lime   Middle Notes Kalamanzi Fruit, Mandarin, Yuzu   Base Notes Cedarwood, Mediterranean Cypress, Guaiacwood   Formula Facts Allergy tested.
 Ingredients: N/A
@@ -799,31 +596,9 @@ Results: N/A
 Rating: nan
 
 
-Product name: Clinique For Men™ Oil Control Face Wash
-Category: Cleansers & Face Wash
-Price: ₹3,150.00
-Description: Oil-free cleanser for normal to oily skins.
-Details: Thoroughly cleanses normal to oily skins, removes excess shine. Leaves skin feeling fresh, comfortable, never tight or dry. Preps skin for a comfortable shave.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: N/A
-How to use: Use twice a day, morning and night. Lather between palms with tepid water. Massage all over damp skin to remove dirt and oil and soften beard. Rinse well and towel dry. Mornings, shave as usual. For great skin, partner daily with Clinique For Men exfoliating tonics and moisturizers.
-Results: N/A
-Rating: 0.0
-
-
-Product name: All About Clean™ Liquid Facial Soap Oily Skin Formula for Combination Oily to Oily Skin
-Category: Cleansers & Face Wash
-Price: ₹2,500.00
-Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
-Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: Formulated with sucrose, known to calm and soothe skin.
-How to use: Use twice a day, morning and night. Lather between palms with lukewarm water. Massage over makeup-free face and neck. Rinse thoroughly; pat skin dry. Follow with Steps 2 and 3: Clarifying Lotion and Dramatically Different Moisturizing Lotion+, Gel or Hydrating Jelly.
-Results: N/A
-Rating: 4.33
-
-
-Product name: SPF 50 Mineral Sunscreen Fluid For Face
+Product Name: SPF 50 Mineral Sunscreen Fluid For Face
 Category: Sunscreen
-Price: ₹3,550.00
+Price: $$42.77
 Description: Ultra-lightweight, virtually invisible 100% mineral sunscreen for your face. Oil-free.
 Details: Invisible Shield Technology forms a protective veil that's virtually invisible on all skin tones. Gentle enough to use around the eye area, too. Safe to use on children ages 6 months and up.  Formula Facts Dermatologist and pediatrician tested. Allergy tested. Appropriate for Sensitive Skin. Non-Acnegenic. Non-Photoallergenic. Non-Phototoxic.
 Ingredients: N/A
@@ -832,9 +607,9 @@ Results: N/A
 Rating: 5.0
 
 
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Eye Cream
+Product Name: Clinique Smart Clinical Repair™ Wrinkle Correcting Eye Cream
 Category: Eye Care
-Price: ₹5,750.00
+Price: $$69.28
 Description: Helps strengthen your dermal support structure for smoother, younger-looking skin.
 Details: The skin around the eyes is delicate and susceptible to damage. Our wrinkle-fighting eye cream is engineered to fortify this skin, making it stronger, visibly smoother, and more resilient.Helps visibly smooth lines and wrinkles and strengthen skin from multiple angles: boosts skin’s natural collagen, helps support skin’s natural structure, strengthens skin’s moisture barrier.Reduces the appearance of line and wrinkles caused by your face's daily micro-movements.Delivers instant and long-lasting, smoothing hydration.Visibly calms and soothes skin, plus instantly brightens.Helps instantly depuff eye area by gently massaging into skin.  Results Instantly:89% say eye area feels comforted.**Consumer testing on 156 women immediately after product use.In 1 week:90% say eye area feels stronger.**Consumer testing on 156 women after using the product for 1 week.In 4 weeks:85% say crow’s feet look reduced.*86% say undereye lines look reduced.**88% say eye area looks younger.***89% say eyes look less crepey.****92% say eye area looks rejuvenated.****Consumer testing on 150 women after using the product for 4 weeks.**Consumer testing on 151 women after using the product for 4 weeks.***Consumer testing on 156 women after using the product for 4 weeks.**** Consumer testing on 141 women after using the product for 4 weeks.   Formula Facts Air-light, whipped texture.Safe for sensitive eyes and contact lens wearers.Ophthalmologist tested.Allergy tested.
 Ingredients: CL1870 Peptide Complex: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Sigesbeckia orientalis extract: A powerful procollagen extract, prized for helping skin maintain its natural density. Hyaluronic acid: This intense humectant helps flood your skin with hydration and holds on. Helps restore suppleness and visibly smooth fine, dry lines.
@@ -843,20 +618,9 @@ Results: Instantly: 89% say eye area feels comforted.* *Consumer testing on 156 
 Rating: 0.0
 
 
-Product name: Clinique For Men™ Broad Spectrum SPF 21 Moisturizer
-Category: Moisturizers & Face Creams
-Price: ₹4,950.00
-Description: Lightweight, oil-free hydration plus daily UVA/UVB protection.
-Details: Needed hydration plus daily UVA/UVB protection. Improves skin's condition. Lightweight, oil-free formula absorbs quickly.  Skin Type All Skin Types   Formula Facts Allergy Tested
-Ingredients: N/A
-How to use: Smooth onto face and neck, avoid immediate eye area.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Clinique For Men™ Face Wash
+Product Name: Clinique For Men™ Face Wash
 Category: Cleansers & Face Wash
-Price: ₹3,150.00
+Price: $$37.95
 Description: Gentle yet thorough cleanser for normal to dry skins.
 Details: Gentle, thorough cleanser for normal to dry skins. Leaves skin feeling fresh, comfortable, never tight or dry. Preps skin for a comfortable shave.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: Formulated with aloe vera and sucrose.
@@ -865,9 +629,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: All About Eyes™ Rich
+Product Name: All About Eyes™ Rich
 Category: Eye Care
-Price: ₹4,250.00
+Price: $$51.2
 Description: Moisture-rich eye cream soothes, de-puffs, and diminishes the look of undereye circles, shadows, fine lines.
 Details: De-puffs, calms with moisture. Strengthens skin's moisture barrier against common irritants.  Formula Facts Ophthalmologist tested. Allergy tested.
 Ingredients: N/A
@@ -876,9 +640,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Anti-Blemish Solutions™ Cleansing Foam
+Product Name: Anti-Blemish Solutions™ Cleansing Foam
 Category: Cleansers & Face Wash
-Price: ₹3,100.00
+Price: $$37.35
 Description: Cleansing foam powered by 2% salicylic acid helps clear and prevent acne, and unclog pores.
 Details: Daily medicated cleanser with 2% salicylic acid removes dirt and excess oil. Helps keep pores clear for healthier-looking skin.Try Clinique’s Clear Skin System.A consistent, non-irritating routine helps get breakouts under control. Clinique’s Acne Solutions™ Clear Skin System helps get skin clear, and keep it that way.Cleanse: Acne Solutions™ Cleansing Foam or Cleansing GelExfoliate: Acne Solutions™ Clarifying LotionTreat: Acne Solutions™ Clinical Clearing GelUse with Dramatically Different™ Moisturizing Gel for lightweight, oil-free hydration.  Formula Facts Allergy tested. Non-Acnegenic.
 Ingredients: Salicylic acid and acetyl glucosamine: Help clear dead skin cells that can contribute to clogged pores. Laminaria saccharina extract: Helps prevent oil buildup that can lead to breakouts. Infused with caffeine, sucrose, sea whip extract, and kola nut extract.
@@ -887,31 +651,9 @@ Results: N/A
 Rating: nan
 
 
-Product name: Dramatically Different™ Hydrating Jelly
+Product Name: Even Better™ Brightening Moisturizer SPF 20
 Category: Moisturizers & Face Creams
-Price: ₹5,150.00
-Description: Lightweight water-jelly face moisturizer delivers 24-hour hydration repair plus pollution protection.
-Details: 24-hour moisturizer hydrator with Clean Shield Technology™ locks in the good—like moisture—and helps keep out the bad. Helps strengthen skin’s moisture barrier and improves resiliency.Skin is hydrated, leaving it smooth, strong, and healthy with a pure, clean glow.Replenishes skin’s oil-water balance for healthy skin.Unique water-jelly texture feels fresh, penetrates quickly.Oil-free formula is non-sticky, leaves no residue.  Results Improves skin’s barrier strength in 1 week.Instantly boosts skin’s moisture by 115%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
-Ingredients: Clean Shield Technology™: Formulated with a botanical blend of sunflower seed cake, barley extract, and cucumber fruit extract. Hyaluronic acid: Acts as a natural moisture magnet/humectant.
-How to use: Spread over face/throat twice daily all over, or where needed. For best results, use after Facial Soap and Clarifying Lotion.
-Results: Improves skin’s barrier strength in 1 week. Instantly boosts skin’s moisture by 115%.
-Rating: 4.33
-
-
-Product name: Dramatically Different™ Moisturizing Lotion+™
-Category: Moisturizers & Face Creams
-Price: ₹5,150.00
-Description: Dermatologist-developed lotion is Clinique's #1 face moisturizer. Silky, fast-absorbing moisturizing lotion with pure urea and pure glycerin rapidly strengthens the skin barrier.
-Details: Delivers 8 hour hydration + soothing moisture for skin in need of comfort.Moisturizes to soften, smooth, and improve.Helps strengthen skin’s own moisture barrier so more moisture stays in.Replenishes skin’s oil-water balance for healthy skin.Silky lotion slips on easily, absorbs quickly.  Results In 4 hours, strengthens skin’s moisture barrier by 34%.Instantly boosts skin’s moisture by 119%.   Formula Facts Non-acnegenicDermatologist testedDermatologist developedAllergy tested
-Ingredients: Natural moisturizing factors: Also known as NMFs, these humectants occur naturally in skin. They help pull in water and bind moisture to skin to help keep it hydrated and balanced. *Infused with a blend of barley, sunflower, and cucumber.
-How to use: Apply twice a day to face and throat all over, or where needed. For best results, use after Facial Soap and Clarifying Lotion.
-Results: In 4 hours, strengthens skin’s moisture barrier by 34%. Instantly boosts skin’s moisture by 119%.
-Rating: 4.33
-
-
-Product name: Even Better™ Brightening Moisturizer SPF 20
-Category: Moisturizers & Face Creams
-Price: ₹6,200.00
+Price: $$74.7
 Description: Daily moisturiser helps improve the appearance of dark spots. Helps protect skin, too.​
 Details: Soothing oil-free cream has specialized ingredients that help reduce the look of dark spots, while SPF helps prevent new damage. Instantly brightens. Wear daily to see a more even-looking skin tone.  Skin Type Very Dry to Dry, Dry Combination skin   Formula Facts Allergy Tested
 Ingredients: N/A
@@ -920,20 +662,9 @@ Results: N/A
 Rating: 0.0
 
 
-Product name: Moisture Surge™ Hydrating Supercharged Concentrate
-Category: Moisturizers & Face Creams
-Price: ₹3,950.00
-Description: Antioxidant-infused water-gel gives skin an intense moisture boost. Hydrates for a full 72 hours.
-Details: Helps break the cycle of dryness and environmental stress that can lead to premature aging.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Liquid-Sphere™ Technology combines water-binding ingredients with encapsulated antioxidants. Hyaluronic Acid fragments and Activated Aloe Water plump skin with moisture.
-How to use: Apply moisturizer AM and PM on clean skin.
-Results: N/A
-Rating: 4.33
-
-
-Product name: All About Clean™ Liquid Facial Soap Extra Mild for Very Dry to Dry Skin Types
+Product Name: All About Clean™ Liquid Facial Soap Extra Mild for Very Dry to Dry Skin Types
 Category: Cleansers & Face Wash
-Price: ₹2,500.00
+Price: $$30.12
 Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
 Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: Formulated with sucrose, known to calm and soothe skin.
@@ -942,75 +673,9 @@ Results: N/A
 Rating: 4.33
 
 
-Product name: Clinique For Men™ Maximum Hydrator 72-Hour Auto-Replenishing Hydrator
-Category: Moisturizers & Face Creams
-Price: ₹3,750.00
-Description: Refreshing cream-gel instantly boosts hydration and rehydrates for 72 hours.
-Details: Advanced hydrator delivers an instant moisture boost and rehydrates for 72 hours. Helps skin create its own internal water source to continually rehydrate itself. Then locks in all that moisture for hydrated, healthy-looking skin.  Formula Facts Allergy tested. Non-Acnegenic. Dermatologist Tested.
-Ingredients: Auto Replenishing Technology with caffeine helps trigger skins own rehydration system. Hyaluronic Acid fragments and Activated Aloe Water infuse skin with moisture. A super-holding matrix of humectants and polymers help reduce water loss and seal in moisture.
-How to use: Apply AM and PM on clean skin or when skin needs a moisture boost.
-Results: N/A
-Rating: 0.0
-
-
-Product name: SPF 50 Mineral Sunscreen Fluid For Face
-Category: Sunscreen
-Price: ₹3,550.00
-Description: Ultra-lightweight, virtually invisible 100% mineral sunscreen for your face. Oil-free.
-Details: Invisible Shield Technology forms a protective veil that's virtually invisible on all skin tones. Gentle enough to use around the eye area, too. Safe to use on children ages 6 months and up.  Formula Facts Dermatologist and pediatrician tested. Allergy tested. Appropriate for Sensitive Skin. Non-Acnegenic. Non-Photoallergenic. Non-Phototoxic.
-Ingredients: N/A
-How to use: Shake well. Smooth liberally over face 15 minutes before sun exposure and as needed. Apply after your daily skin care routine. Reapply at least every two hours or after towel drying, swimming, or perspiring.
-Results: N/A
-Rating: 5.0
-
-
-Product name: Moisture Surge™ Overnight Mask
-Category: Face Masks
-Price: ₹4,950.00
-Description: Creamy, oil-free hydrating face mask deeply nourishes while you sleep. Delivers a 98% overnight moisture boost.Clinical testing on 21 women.
-Details: Did you know skin loses moisture while you sleep? This rich, penetrating night mask replenishes all night long. It soothes and nourishes to help skin stay hydrated. Includes hydrating panthenol to help support skin’s moisture barrier. You’ll wake up to soft, dewy, glowing skin.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: N/A
-How to use: Use moisturizing mask once a day, in the evening. Use after 3-Step, or anytime skin needs a moisture boost. Apply to face and throat all over, or where needed.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Take The Day Off™ Makeup Remover For Lids, Lashes & Lips
-Category: Cleansers & Face Wash
-Price: ₹2,950.00
-Description: Clinique's bestselling makeup remover. Totally tugless formula whisks away makeup. Non-irritating, non-stinging.
-Details: Dissolves and lifts away long-wearing makeup, even waterproof mascara. Non-irritating, non-stinging.  Formula Facts Allergy tested. Ophthalmologist Tested.
-Ingredients: N/A
-How to use: Shake well before using. Saturate cotton ball. Sweep on. Wipe off. Rinse with cool water before reapplying makeup.
-Results: N/A
-Rating: 4.33
-
-
-Product name: All About Eyes™ Rich
-Category: Eye Care
-Price: ₹4,250.00
-Description: Moisture-rich eye cream soothes, de-puffs, and diminishes the look of undereye circles, shadows, fine lines.
-Details: De-puffs, calms with moisture. Strengthens skin's moisture barrier against common irritants.  Formula Facts Ophthalmologist tested. Allergy tested.
-Ingredients: N/A
-How to use: Use twice a day, morning and night. With ring finger, apply sparingly to entire eye area using a gentle patting motion.
-Results: N/A
-Rating: 4.33
-
-
-Product name: All About Clean™ 2-in-1 Charcoal Mask + Scrub
-Category: Face Masks
-Price: ₹5,500.00
-Description: Five-minute detoxifying face mask + scrub helps remove pollution and excess oil, plus refines skin's texture.
-Details: Two-in-one formula with bamboo charcoal and kaolin clay delivers a powerful, detoxifying clean for polished skin. Leaves skin clear, bright, and feeling smooth.  Formula Facts Allergy tested.
-Ingredients: Bamboo Charcoal Powder: Created from the process of bamboo carbonization, this ingredient has an enormous surface area to mass ratio that allows it to attract and absorb build-up like pollutants on skin. 1 gram of bamboo charcoal has up to 1,000 square meters of surface area, making it an excellent purifying and detoxifying agent. Kaolin Clay: Natural clay that helps absorb excess oil from skin.
-How to use: On clean skin, use fingertips to apply a generous layer onto the face. Avoid eye area. Leave on face for 5 minutes or until the mask turns pale grey. For removal, use warm water, massage mask in circular motions to re-energize, exfoliate, and detoxify skin. Rinse thoroughly and towel dry. Follow with a moisturizer. For optimal results, use 1-2 times per week.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clinique Smart Night™ Clinical MD Multi-Dimensional Repair Treatment Retinol
+Product Name: Clinique Smart Night™ Clinical MD Multi-Dimensional Repair Treatment Retinol
 Category: Face Serums
-Price: ₹6,950.00
+Price: $$83.73
 Description: Skin-repairing nighttime treatment jumpstarts the anti-aging process with retinol plus hydration.
 Details: Powered by 0.3% retinol, this creamy formula sinks in to help speed up cell turnover and visibly reduces fine lines and wrinkles. Skin tone looks more even, radiant, and pores look minimized. Delivers instant and lasting hydration, which helps comfort skin and offset dryness sometimes associated with retinol.**Tolerance to retinol varies by person.  Results Restores radiance with 1 use.**Minimizes the appearance of pores in 7 days.**Skin feels smoother in 28 days/4 weeks.**With continued use, visibly reduces lines and wrinkles.**Improves evenness of skin tone in 8 weeks.**Retexturizes skin in 12 weeks.**Provides instant and lasting hydration.**  **Clinical testing on 27 women after using the products for 12 weeks.   Formula Facts Allergy tested.
 Ingredients: Retinol: A pure form of Vitamin A, its an effective anti-aging ingredient known to help visibly reduce lines and wrinkles, minimize the appearance of pores, and smooth and refine texture. Youth-Boosting Blend: Helps skin look smoother. Includes acetyl hexapeptide-8, niacinamide, sigesbeckia extract, and ascorbic acid. Comforting Hydrator Blend: Helps infuse skin with hydration. Includes hyaluronic acid, mango seed butter, wheat and barley extract, coffee seed oil, squalene, and vitamin E.
@@ -1019,265 +684,12 @@ Results: Restores radiance with 1 use.** Minimizes the appearance of pores in 7 
 Rating: 5.0
 
 
-Product name: Moisture Surge™ SPF 25 Sheer Hydrator
-Category: Moisturizers & Face Creams
-Price: ₹3,850.00
-Description: Cloud-like cream with SPF hydrates and delivers sheer sun protection.
-Details: Skin Type All Skin Types   Results 100% show a boost in hydration* and glow.**95% say skin feels instantly moisturized.***95% say skin feels protected.****93% say skin has a healthy glow, not shiny. ****96% say product looks invisible on skin.****96% say product feels weightless on skin. *****Clinical testing on 24 women immediately after using the product.**Clinical testing on 27 women immediately after using the product.***Consumer testing on 165 women after using the product one time.****Consumer testing on 164 women after using the product for one week.
-Ingredients: N/A
-How to use: The formula looks opaque going on, so you can see where you apply it. Start in the center, applying at the highest points, where the sun hits first. Pat or massage outward, covering your entire face. Pat or massage in until fully sheer.
-Results: 100% show a boost in hydration* and glow.** 95% say skin feels instantly moisturized.*** 95% say skin feels protected.**** 93% say skin has a healthy glow, not shiny. **** 96% say product looks invisible on skin.**** 96% say product feels weightless on skin. **** *Clinical testing on 24 women immediately after using the product. **Clinical testing on 27 women immediately after using the product. ***Consumer testing on 165 women after using the product one time. ****Consumer testing on 164 women after using the product for one week.
-Rating: 4.33
-
-
-Product name: Moisture Surge™ Lip Hydro-Plump Treatment
-Category: Lip Care
-Price: ₹2,200.00
-Description: Multi-tasking treatment smooths, relieves dryness, and preps for soft, dewy lips.
-Details: Finish:Natural  Delivers plumping hydration and nourishment for soft and supple lips. This anytime, multi-tasking treatment instantly moisturizes, smooths and preps lips for makeup.  Formula Facts Allergy tested. Dermatologist Tested.
-Ingredients: Formulated with lip-loving ingredients like lipids, shea butter and ceramides.
-How to use: Apply to lips day and night. Use for an instant boost of hydration and for makeup prep. Can be used as an overnight mask, or as a 5-minute mask to condition lips before lipstick application.Delivers plumping hydration and nourishment for soft and supple lips. This anytime, multi-tasking treatment instantly moisturizes, smooths and preps lips for makeup.
-Results: N/A
-Rating: 5.0
-
-
-Product name: Moisture Surge™ 100H Auto-Replenishing Hydrator
-Category: Moisturizers & Face Creams
-Price: ₹2,250.00
-Description: Refreshing oil-free face moisturizer with aloe bioferment and hyaluronic acid delivers instant hydration that soothes in 3 seconds. 100% instantly show a boost in hydration and glow.
-Details: Many things can dehydrate your skin, including weather, pollution, blue light, time spent in the sun, mask wearing, air travel, air conditioning, and heating.Fight back against life’s daily dehydrations. This oil-free gel-cream moisturizer with Aloe Bioferment + HA Complex penetrates deep into skin’s surface—for 100 hours of stabilizing hydration.Plus an antioxidant blend of vitamins C and E helps protect against dehydrators, so your skin is more resilient.Skin feels soothed with hydration in 3 seconds, and it keeps on glowing.Provides a smooth canvas for makeup application.  Results After one use:Boosts moisture immediately by +174%.Provides 100 hours of stabilizing hydration.After one week:99% say skin feels deeply hydrated.*95% say skin looks plump.*91% say skin looks glowing.*98% say skin feels more resilient.*95% say skin feels healthier.**Consumer testing on 110 women.   Formula Facts Dermatologist testedAllergy testedNon-Acnegenic.
-Ingredients: Aloe Bioferment + HA Complex combines two hydrating ingredients into one powerhouse complex to help attract moisture and retain it: Aloe bioferment: Built on more than 30 years of research in fermentation technology, this hydrating ingredient starts with the aloe vera plant, which is concentrated over 500 times. It’s further transformed into a bioferment through a meticulous 10-step fermentation process over 5+ days. This process breaks down actives into smaller molecules, so they are more bioavailable to better penetrate skin. The result: a nutrient-rich ingredient that helps skin retain moisture. Hyaluronic acid: This moisture-binding ingredient helps create a “moisture reservoir” for ideal hydration. Our formula is expertly blended with two different molecular weights of hyaluronic acid. Other key ingredients include: Blend of vitamins C and E: Helps provide antioxidant protection against daily dehydrators. Activated aloe water: Pure water is infused with aloe barbadensis leaf extract, then supercharged to hold both positive and negative ionic charges. Auto-Replenishing Technology: Using activated aloe water and caffeine, it helps trigger skin’s own rehydration system.
-How to use: Use morning and night on clean skin or use over makeup as a dewy highlighter. Can also be used as a 5-minute mask.
-Results: After one use: Boosts moisture immediately by +174%. Provides 100 hours of stabilizing hydration. After one week: 99% say skin feels deeply hydrated.* 95% say skin looks plump.* 91% say skin looks glowing.* 98% say skin feels more resilient.* 95% say skin feels healthier.* *Consumer testing on 110 women.
-Rating: 4.33
-
-
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Eye Cream
-Category: Eye Care
-Price: ₹5,750.00
-Description: Helps strengthen your dermal support structure for smoother, younger-looking skin.
-Details: The skin around the eyes is delicate and susceptible to damage. Our wrinkle-fighting eye cream is engineered to fortify this skin, making it stronger, visibly smoother, and more resilient.Helps visibly smooth lines and wrinkles and strengthen skin from multiple angles: boosts skin’s natural collagen, helps support skin’s natural structure, strengthens skin’s moisture barrier.Reduces the appearance of line and wrinkles caused by your face's daily micro-movements.Delivers instant and long-lasting, smoothing hydration.Visibly calms and soothes skin, plus instantly brightens.Helps instantly depuff eye area by gently massaging into skin.  Results Instantly:89% say eye area feels comforted.**Consumer testing on 156 women immediately after product use.In 1 week:90% say eye area feels stronger.**Consumer testing on 156 women after using the product for 1 week.In 4 weeks:85% say crow’s feet look reduced.*86% say undereye lines look reduced.**88% say eye area looks younger.***89% say eyes look less crepey.****92% say eye area looks rejuvenated.****Consumer testing on 150 women after using the product for 4 weeks.**Consumer testing on 151 women after using the product for 4 weeks.***Consumer testing on 156 women after using the product for 4 weeks.**** Consumer testing on 141 women after using the product for 4 weeks.   Formula Facts Air-light, whipped texture.Safe for sensitive eyes and contact lens wearers.Ophthalmologist tested.Allergy tested.
-Ingredients: CL1870 Peptide Complex: An expert peptide blend engineered to fight the look of wrinkles by boosting natural collagen, which helps strengthen skin's natural support structure. Sigesbeckia orientalis extract: A powerful procollagen extract, prized for helping skin maintain its natural density. Hyaluronic acid: This intense humectant helps flood your skin with hydration and holds on. Helps restore suppleness and visibly smooth fine, dry lines.
-How to use: Apply around eye area, gently massaging into skin. Use twice a day.
-Results: Instantly: 89% say eye area feels comforted.* *Consumer testing on 156 women immediately after product use. In 1 week: 90% say eye area feels stronger.* *Consumer testing on 156 women after using the product for 1 week. In 4 weeks: 85% say crow’s feet look reduced.* 86% say undereye lines look reduced.** 88% say eye area looks younger.*** 89% say eyes look less crepey.**** 92% say eye area looks rejuvenated.*** *Consumer testing on 150 women after using the product for 4 weeks. **Consumer testing on 151 women after using the product for 4 weeks. ***Consumer testing on 156 women after using the product for 4 weeks. **** Consumer testing on 141 women after using the product for 4 weeks.
-Rating: 0.0
-
-
-Product name: Superdefense™ SPF 40 Fatigue + 1st Signs of Age Multi Correcting Gel
-Category: Moisturizers & Face Creams
-Price: ₹6,000.00
-Description: A refreshing silky gel with SPF that fights fatigue and first signs of aging.
-Details: Awakens instantly and continuously, with 12 hours of anti-fatigue radiance for more youthful-looking skin. Helps visibly correct first signs of aging, uneven texture, dullness, fine lines and wrinkles. Helps defend against a full spectrum of modern aggressors. Sweat and humidity resistant. Oil-free.Our Clinique Clean PhilosophySimple. Safe. Effective. Allergy tested. 100% fragrance free.
-Ingredients: N/A
-How to use: Apply in AM on clean skin. For optimal use, use with Clinique Fresh Pressed Daily Booster with Pure Vitamin C 10%.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clinique Smart Night™ Clinical MD Multi-Dimensional Repair Treatment Retinol
-Category: Face Serums
-Price: ₹6,950.00
-Description: Skin-repairing nighttime treatment jumpstarts the anti-aging process with retinol plus hydration.
-Details: Powered by 0.3% retinol, this creamy formula sinks in to help speed up cell turnover and visibly reduces fine lines and wrinkles. Skin tone looks more even, radiant, and pores look minimized. Delivers instant and lasting hydration, which helps comfort skin and offset dryness sometimes associated with retinol.**Tolerance to retinol varies by person.  Results Restores radiance with 1 use.**Minimizes the appearance of pores in 7 days.**Skin feels smoother in 28 days/4 weeks.**With continued use, visibly reduces lines and wrinkles.**Improves evenness of skin tone in 8 weeks.**Retexturizes skin in 12 weeks.**Provides instant and lasting hydration.**  **Clinical testing on 27 women after using the products for 12 weeks.   Formula Facts Allergy tested.
-Ingredients: Retinol: A pure form of Vitamin A, its an effective anti-aging ingredient known to help visibly reduce lines and wrinkles, minimize the appearance of pores, and smooth and refine texture. Youth-Boosting Blend: Helps skin look smoother. Includes acetyl hexapeptide-8, niacinamide, sigesbeckia extract, and ascorbic acid. Comforting Hydrator Blend: Helps infuse skin with hydration. Includes hyaluronic acid, mango seed butter, wheat and barley extract, coffee seed oil, squalene, and vitamin E.
-How to use: Apply pea size amount (0.25g) at night. Avoid eye area. Tip: For first two weeks, use every other night, then nightly. Use sunscreen and limit sun exposure while using and the week after. Do not use with other retinol products. To help optimize the results of retinol, we suggest using as part of a regimen with other anti-aging products, such as: In AM: Clinique Smart Clinical Repair™  Wrinkle Correcting Serum, Wrinkle Correcting Cream, and Eye Cream. In PM: Clinique Smart Night™  Retinol + Clinique Smart Clinical Repair™  Wrinkle Correcting Cream and Eye Cream. What you should know about retinol : Retinol is an extremely effective and powerful anti-aging ingredient. You may experience mild redness, a warm, tingling sensation, or ﬂaking (skin exfoliation). These conditions are normal, temporary indications that the formula is working. If you experience increased discomfort when using Clinique Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol, revert to once every other night until skin adjusts. This adjustment can take up to 4 weeks. First time users and those with drier skin types may want to use Clinique Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol every other night for more than 2 weeks to give skin additional time to adjust. For added comfort, use a mild cleanser and layer an additional moisturizer over Clinique Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol. Limit sun exposure in general. Be sure to apply a sunscreen of SPF15 or higher during the day while using and one week after stopping use of Clinique Smart Night Clinical MD Multi-Dimensional Repair Treatment Retinol. Note that extreme weather conditions such as wind or cold may be more irritating, so take the proper precautions to protect your face.
-Results: Restores radiance with 1 use.** Minimizes the appearance of pores in 7 days.** Skin feels smoother in 28 days/4 weeks.** With continued use, visibly reduces lines and wrinkles.** Improves evenness of skin tone in 8 weeks.** Retexturizes skin in 12 weeks.** Provides instant and lasting hydration.** **Clinical testing on 27 women after using the products for 12 weeks.
-Rating: 5.0
-
-
-Product name: Anti-Blemish Solutions™ Cleansing Foam
+Product Name: Clinique For Men™ Charcoal Face Wash
 Category: Cleansers & Face Wash
-Price: ₹3,100.00
-Description: Cleansing foam powered by 2% salicylic acid helps clear and prevent acne, and unclog pores.
-Details: Daily medicated cleanser with 2% salicylic acid removes dirt and excess oil. Helps keep pores clear for healthier-looking skin.Try Clinique’s Clear Skin System.A consistent, non-irritating routine helps get breakouts under control. Clinique’s Acne Solutions™ Clear Skin System helps get skin clear, and keep it that way.Cleanse: Acne Solutions™ Cleansing Foam or Cleansing GelExfoliate: Acne Solutions™ Clarifying LotionTreat: Acne Solutions™ Clinical Clearing GelUse with Dramatically Different™ Moisturizing Gel for lightweight, oil-free hydration.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Salicylic acid and acetyl glucosamine: Help clear dead skin cells that can contribute to clogged pores. Laminaria saccharina extract: Helps prevent oil buildup that can lead to breakouts. Infused with caffeine, sucrose, sea whip extract, and kola nut extract.
-How to use: Use cleanser twice a day, morning and night. Pump 2-3 times. Massage gently over wet skin, avoiding eye area. Rinse thoroughly; pat skin dry.
-Results: N/A
-Rating: nan
-
-
-Product name: Even Better™ Brightening Moisturizer SPF 20
-Category: Moisturizers & Face Creams
-Price: ₹6,200.00
-Description: Daily moisturiser helps improve the appearance of dark spots. Helps protect skin, too.​
-Details: Soothing oil-free cream has specialized ingredients that help reduce the look of dark spots, while SPF helps prevent new damage. Instantly brightens. Wear daily to see a more even-looking skin tone.  Skin Type Very Dry to Dry, Dry Combination skin   Formula Facts Allergy Tested
-Ingredients: N/A
-How to use: Apply mornings to face after using Even Better Clinical™ Radical Dark Spot Corrector + Interrupter. Follow with Even Better™ Makeup Broad Spectrum SPF 15 for a perfect finish. Can also be used on chest and hands.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Clinique For Men™ Face Wash
-Category: Cleansers & Face Wash
-Price: ₹3,150.00
-Description: Gentle yet thorough cleanser for normal to dry skins.
-Details: Gentle, thorough cleanser for normal to dry skins. Leaves skin feeling fresh, comfortable, never tight or dry. Preps skin for a comfortable shave.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: Formulated with aloe vera and sucrose.
-How to use: Lather over damp skin to remove dirt and oil and soften beard.Rinse well and towel dry. Mornings, shave as usual. For great skin, partner daily with Clinique For Men exfoliating tonics and moisturizers.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Clarifying Lotion 4
-Category: Exfoliators & Toners
-Price: ₹3,000.00
-Description: Exfoliating lotion for oily skin. Sweeps away excess oil that can lead to breakouts. Dermatologist-developed.
-Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 31 men and women, after using product one time.   Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: N/A
-How to use: Use exfoliating lotion twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with Step 3: Dramatically Different Moisturizing Lotion+, Gel or Jelly.
-Results: Instantly delivers clinically proven benefits*, for skin that: Looks smoother. Looks more radiant. With less-noticeable pores. *Clinical testing on 31 men and women, after using product one time.
-Rating: 4.33
-
-
-Product name: Clarifying Lotion 1
-Category: Exfoliators & Toners
-Price: ₹3,000.00
-Description: Dermatologist-developed formula. Our bestselling exfoliating lotion for dry-combination skin sweeps away dulling flakes.
-Details: Gentle, refreshing formula is the difference-maker for healthy skin. Sweeps away pollution, grime, dulling flakes to reveal smoother, clearer skin.Preps skin for moisturizer—exfoliated skin is more receptive to hydration and treatment products.For oilier skins, twice-daily exfoliation helps minimize excess oil and keep pores clear.For drier skins, twice-daily exfoliation helps remove surface flakes that can be a barrier to moisture absorption. Even helps fine dry lines disappear.  Results Instantly delivers clinically proven benefits*, for skin that:Looks smoother.Looks more radiant.With less-noticeable pores.*Clinical testing on 22 women, after using product one time.
-Ingredients: N/A
-How to use: Use twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck. For external use only. Avoid eye area and lips. Follow with Step 3: Dramatically Different Moisturizing Lotion+, Gel or Jelly.
-Results: Instantly delivers clinically proven benefits*, for skin that: Looks smoother. Looks more radiant. With less-noticeable pores. *Clinical testing on 22 women, after using product one time.
-Rating: 4.33
-
-
-Product name: All About Clean™ Liquid Facial Soap Extra Mild for Very Dry to Dry Skin Types
-Category: Cleansers & Face Wash
-Price: ₹2,500.00
-Description: Dermatologist-developed liquid soap cleanses gently yet thoroughly.
-Details: Soft, non-drying lather loosens surface flakes, removes dirt and debris, and protects skin’s natural moisture balance.Quick-rinsing formula leaves skin clean, comfortable, refreshed – never taut or dry.Preps skin for the exfoliating action of Step 2, Clarifying Lotion.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: Formulated with sucrose, known to calm and soothe skin.
-How to use: Use twice a day, morning and night. Lather between palms with lukewarm water. Massage over makeup-free face and neck. Rinse thoroughly; pat skin dry. Follow with Steps 2 and 3: Clarifying Lotion and Dramatically Different Moisturizing Lotion+, Gel or Hydrating Jelly.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clinique For Men™ Charcoal Face Wash
-Category: Cleansers & Face Wash
-Price: ₹3,850.00
+Price: $$46.39
 Description: Detoxifying gel wash delivers a deep-pore clean.
 Details: Detoxifying gel wash delivers a deep-pore clean. Natural charcoal draws out the dirt and excess oil that can clog pores. Soothing, non-drying lather gently foams away impurities. Leaves all skin types feeling fresh, comfortable.  Formula Facts Allergy tested. Dermatologist Developed.
 Ingredients: N/A
 How to use: Use twice a day, morning and night. Lather between palms with tepid water. Massage all over damp skin to remove dirt and oil, and soften beard. Rinse well and towel dry. Mornings, shave as usual.
 Results: N/A
 Rating: 0.0
-
-
-Product name: Superdefense™ City Block Broad Spectrum SPF 50 Daily Energy + Face Protector
-Category: Sunscreen
-Price: ₹3,550.00
-Description: An energizing, go-anywhere daily SPF protector for all-day defense.
-Details: Daily SPF protector works all day to defend and awaken skin. Sheer and weightless. Quick absorbing and oil-free.
-Ingredients: N/A
-How to use: Apply in AM after all treatment products and before makeup.
-Results: N/A
-Rating: 4.0
-
-
-Product name: Moisture Surge Eye™ 96-Hour Hydro-Filler Concentrate
-Category: Eye Care
-Price: ₹3,850.00
-Description: Ultralight water-gel delivers intense, crease-plumping hydration. Instantly re-floods, tightens, and brightens skin.
-Details: Instantly re-floods, tightens and brightens skin. Hydrates delicate eye area for 96 hours of moisture using Auto-Replenishing Lipid-Sphere Technology.  Formula Facts Allergy tested. Ophthalmologist Tested. Dermatologist Tested. Non-Acnegenic. Appropriate for Contact Lens Wearers.
-Ingredients: Auto-Replenishing Lipid-Sphere Technology with pure aloe butter helps rebuild skin’s lipid barrier to minimize moisture loss while encapsulated antioxidants help break the cycle of environmental stress that can lead to premature aging.
-How to use: Use pea-size amount. Massage all around eye area. Can be used alone, under makeup, or as a 3-minute eye mask.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Anti-Blemish Solutions™ Cleansing Gel
-Category: Cleansers & Face Wash
-Price: ₹2,650.00
-Description: Refreshing, medicated cleanser with 2% salicylic acid helps clear acne and prevent future breakouts.
-Details: Refreshing, medicated cleanser with 2% salicylic acid helps clear breakouts and blackheads, control oil, and unclog pores. Skin feels fresh, soft, and smooth.Try Clinique’s Clear Skin System.A consistent, non-irritating routine helps get breakouts under control. Clinique’s Acne Solutions™ Clear Skin System helps get skin clear, and keep it that way.Cleanse: Acne Solutions™ Cleansing Foam or Cleansing GelExfoliate: Acne Solutions™ Clarifying LotionTreat: Acne Solutions™ Clinical Clearing GelUse with Dramatically Different™ Moisturizing Gel for lightweight, oil-free hydration.  Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Salicylic Acid and Acetyl Glucosamine: Help clear dead skin cells that can contribute to clogged pores.
-How to use: Use twice a day, morning and night. Lather between palms with warm water. Massage over makeup-free face, avoiding eye area. Rinse thoroughly; pat skin dry. Follow with Acne Solutions Clarifying Lotion. To help treat breakouts, use Clinical Clearing Gel before moisturizer. Apply a thin layer to entire face twice a day after cleansing, or spot-apply if you are using another leave-on acne treatment. Finish with a lightweight, oil-free hydrator like Dramatically Different™ Moisturizing Gel.
-Results: N/A
-Rating: nan
-
-
-Product name: Clinique Smart Clinical Repair™ Wrinkle Correcting Serum
-Category: Face Serums
-Price: ₹9,550.00
-Description: Clinique's most advanced anti-aging serum with 9.5% peptides and 1% advanced retinoid. Helps reduce the look of wrinkles, visibly lift, smooth, firm, and boost radiance. 100% show visibly reduced lines and wrinkles.*
-Details: Dermal-active formula targets signs of aging from three separate angles.Repairs: strengthen skin to reduce the look of wrinkles.Resurfaces: Accelerates cell turnover and smooths skin.Replumps: Hydrates skin and instantly minimizes the appearance of fine, dry lines.  Results Effective as a laser on the look of lines and wrinkles.*Instant reduction in fine, dry lines.In 10 days:84% say deeper wrinkles look reduced.**94% say skin feels smoother.**90% say skin feels firmer.**87% say skin feels more plumped.**92% agree it’s gentle and non-irritating.**In 4 weeks:88% say skin looks lifted.***In 16 weeks:32% visible reduction in stubborn lines.*****In a clinical study after 16 weeks, women who had one laser treatment showed the same improvement in the overall look of lines and wrinkles as those who used Smart Serum twice daily instead. Laser used: microablative, deka dot SmartSkin CO2™ (Cynosure, Westford, MA) with CO2 fractional tech.**Consumer testing on 358 women.***Consumer testing on 354 women.****Upper lateral dynamic lines; clinical testing on 59 women after 16 weeks.   Formula Facts Safe for sensitive skin.Dermatologist developed.Dermatologist tested.Allergy tested.
-Ingredients: Peptides: Help boost skin’s strength for a smoother appearance. Our formula with CL1870 Laser Focus Complex™ includes “self-assembly,” “neuropeptide,” and “signaling peptides”: Palmitoyl tripeptide-1 Acetyl hexapeptide-8 Palmitoyl tetrapeptide-7 Palmitoyl hexapeptide-12 Advanced retinoid: The next generation of retinol, formulated for high-performance and gentle enough to use twice a day. Helps accelerate skin’s natural cell renewal to visibly reduce wrinkles. Hyaluronic acid: Instantly hydrates and plumps skin, helping minimize the look of fine, dry lines. Helps restore a youthful, supple appearance. Optimizing blend of caffeine and algae extract helps reduce irritation.
-How to use: Use twice a day, morning and night. Dispense 1 to 2 pumps onto fingertips. Spread serum all over clean face and neck, avoiding eye area. Follow with Clinique Smart Clinical Repair™ Wrinkle Correcting Cream. Daily sunscreen is imperative. Apply to face and neck in the AM after your moisturizer. Limit sun exposure while using and the week after. Do not use with other retinol products.
-Results: Effective as a laser on the look of lines and wrinkles.* Instant reduction in fine, dry lines. In 10 days: 84% say deeper wrinkles look reduced.** 94% say skin feels smoother.** 90% say skin feels firmer.** 87% say skin feels more plumped.** 92% agree it’s gentle and non-irritating.** In 4 weeks: 88% say skin looks lifted.*** In 16 weeks: 32% visible reduction in stubborn lines.**** *In a clinical study after 16 weeks, women who had one laser treatment showed the same improvement in the overall look of lines and wrinkles as those who used Smart Serum twice daily instead. Laser used: microablative, deka dot SmartSkin CO2™ (Cynosure, Westford, MA) with CO2 fractional tech. **Consumer testing on 358 women. ***Consumer testing on 354 women. ****Upper lateral dynamic lines; clinical testing on 59 women after 16 weeks.
-Rating: 0.0
-
-
-Product name: Even Better Eyes™ Dark Circle Corrector
-Category: Eye Care
-Price: ₹5,050.00
-Description: Refreshing eye-area treatment instantly brightens all skin tones.
-Details: Brightens the appearance of the eye area and reduces the look of dark circles. Hydrates and smooths too. Cooling metal tip helps massage away puffiness.  Formula Facts Ophthalmologist tested. Allergy tested. Safe for contact lens wearers.
-Ingredients: N/A
-How to use: Use twice daily, morning and night. Gently squeeze a small amount of product and glide contoured applicator back and forth across the under-eye area. Use finger to smooth in any excess until absorbed.
-Results: N/A
-Rating: 4.33
-
-
-Product name: All About Eyes™ Eye Cream
-Category: Eye Care
-Price: ₹4,250.00
-Description: Lightweight, refreshing eye cream hydrates, brightens, and reduces the look of puffiness.
-Details: This lightweight eye cream diminishes the appearance of puffs, undereye circles. Non-creep, cream/gel formula actually helps hold eye makeup in place.  Formula Facts Ophthalmologist tested. Allergy tested.
-Ingredients: N/A
-How to use: Use twice a day, morning and night. With ring finger, apply sparingly to entire eye area using a gentle patting motion.
-Results: N/A
-Rating: 4.33
-
-
-Product name: Clinique For Men™ Charcoal Face Wash
-Category: Cleansers & Face Wash
-Price: ₹3,850.00
-Description: Detoxifying gel wash delivers a deep-pore clean.
-Details: Detoxifying gel wash delivers a deep-pore clean. Natural charcoal draws out the dirt and excess oil that can clog pores. Soothing, non-drying lather gently foams away impurities. Leaves all skin types feeling fresh, comfortable.  Formula Facts Allergy tested. Dermatologist Developed.
-Ingredients: N/A
-How to use: Use twice a day, morning and night. Lather between palms with tepid water. Massage all over damp skin to remove dirt and oil, and soften beard. Rinse well and towel dry. Mornings, shave as usual.
-Results: N/A
-Rating: 0.0
-
-
-Product name: Anti-Blemish Solutions™ All-Over Clearing Treatment
-Category: Blemish Treatments
-Price: ₹3,000.00
-Description: Lightweight, medicated formula helps clear and prevent blemishes. Calms, soothes, reduces redness.
-Details: Helps treat existing acne and prevent future breakouts. Creates a barrier against acne-causing agents. Helps control excess oil. Lightly hydrates to minimize dryness and peeling. Calms, soothes, visibly reduces redness.  Results Use the Clear Skin System, see visible reduction of blemishes starting in 3 days.*The best way to get breakouts under control is a consistent, non-irritating routine. Each step of Clinique’s Anti-Blemish Solutions Clear Skin System has a purpose: cleanse, exfoliate, treat. All 3 steps work together to get powerful results in just 3 days. With consistent twice-a-day use, the results just keep getting better.Improvement in active blemishes:1 Week: 47%4 Weeks: 54%6 Weeks: 73%12 Weeks: 81%  *Clinical testing on 66 panels using Anti-Blemish Solutions Cleansing Foam, Anti-Blemish Solutions Clarifying Lotion and Anti-Blemish Solutions Allover Clearing Treatment twice daily for 3 days.   Formula Facts Allergy tested. Non-Acnegenic.
-Ingredients: Acne-fighting Benzoyl Peroxide treats and prevents blemishes and breakouts. Acetyl Glucosamine helps clear dead skin cells that can contribute to clogged pores.
-How to use: Apply thin layer to face AM and PM. If drying or peeling occurs, reduce usage. For best results, use after Acne Solutions Cleansing Foam and Clarifying Lotion. After acne clears, continue using for preventative care.
-Results: Use the Clear Skin System, see visible reduction of blemishes starting in 3 days. * The best way to get breakouts under control is a consistent, non-irritating routine. Each step of Clinique’s Anti-Blemish Solutions Clear Skin System has a purpose: cleanse, exfoliate, treat. All 3 steps work together to get powerful results in just 3 days. With consistent twice-a-day use, the results just keep getting better. Improvement in active blemishes: 1 Week: 47% 4 Weeks: 54% 6 Weeks: 73% 12 Weeks: 81% *Clinical testing on 66 panels using Anti-Blemish Solutions Cleansing Foam, Anti-Blemish Solutions Clarifying Lotion and Anti-Blemish Solutions Allover Clearing Treatment twice daily for 3 days.
-Rating: nan
-
-
-Product name: Take The Day Off™ Charcoal Cleansing Balm
-Category: Cleansers & Face Wash
-Price: ₹3,800.00
-Description: Our #1 makeup remover in a silky balm formula that gently dissolves makeup. Now with detoxifying Japanese charcoal.
-Details: Lightweight makeup remover quickly dissolves tenacious eye and face makeups, sunscreens.Detoxifies and unclogs pores, helping clear dirt, oil, pollution, and other impurities.Transforms from a solid balm into a silky oil upon application.Cleans thoroughly, rinses off completely—without leaving an oily or greasy residue behind.  Results Over 95% removal of face makeup, sunscreen, and pollutants.**Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.   Formula Facts Non-acnegenicNon-greasyNon-dryingNon-strippingAllergy testedOphthalmologist testedDermatologist tested
-Ingredients: Japanese charcoal: This purifying ingredient helps deeply cleanse and detoxifies pores. Safflower seed oil: Works efficiently to help break up natural oil found on skin, as well as dissolves hard-to-remove makeup. Rich in linoleic acid, this natural emollient helps leave skin feeling soft and nourished.
-How to use: Use before cleanser and other treatment products. Massage balm over dry skin with dry fingertips. Rinse well with warm water. Pat dry. Follow with cleanser, then apply eye cream, serum, and moisturizer.
-Results: Over 95% removal of face makeup, sunscreen, and pollutants.* *Average removal of longwearing foundation, hybrid sunscreen, and carbon powder.
-Rating: 4.33
-
-
-Product name: Moisture Surge™ Intense 72H Lipid-Replenishing Hydrator
-Category: Moisturizers & Face Creams
-Price: ₹2,250.00
-Description: Rich cream-gel delivers 72-hour hydration for velvety-smooth skin. Tested in Siberia and the results were glowing.*
-Details: Our richest formula yet sets non-stop hydration into motion with the help of activated aloe water and caffeine. Then locks it in with a trio of lipids, strengthening skin’s barrier to keep moisture in and helps keep aggressors out. Keeps skin hydrated for 72 hours, leaving it glowing, plump, and velvety-smooth. Calming cica helps soothe and comfort dry or dehydrated skin.  Results We tested it on women in Siberia during winter, where they face extreme weather conditions—and the results were glowing.*  Immediately: 98% said their skin felt hydrated. 97% said their skin felt soft. 94% said their skin felt protected in extreme cold. 98% said their tight, dry skin felt relieved.  In 1 week: 91% said their skin was glowing. 91% said their skin felt plump. 92% said their skin felt less irritated.  In 4 weeks: 98% said their skin felt deeply hydrated. 96% said their skin felt healthier. 98% said their skin looked dewy. 94% said their skin felt comforted. 96% said their skin felt deeply nourished.  *Consumer testing on 106 women after using the product for 4 weeks.  Now in more sustainable packaging. 30ml, 50ml, and 75ml are made from glass that’s recyclable. 15ml jar is made with minimum 44% post-consumer recycled material.What does post-consumer recycled (PCR) material mean? It’s a material (such as a plastic water bottle) that's already been used and would otherwise have been thrown away. This reduces the creation of new plastic waste.How to recycle: The glass jars are recyclable. Remove the cap, then rinse the jar and place in a recycling bin.Please Note: 15ml size is excluded from additional discounts and promotions.  Formula Facts Allergy tested. Non-Acnegenic. Dermatologist Tested.
-Ingredients: Activated Aloe Water: Water is infused with aloe leaf extract to help deliver intense hydration. Cica: Also known as tiger grass, cica is a centuries-old ingredient traditionally used in Chinese medicine for its healing properties. Helps soothe dry, delicate skin. Auto-Replenishing Lipid-Filler Technology: Using activated aloe water and caffeine, this technology helps trigger skin’s internal water source so skin can continuously hydrate itself. Uses three types of lipids to reinforce and strengthen skin’s barrier, helping lock in and retain moisture.
-How to use: Apply AM and PM on clean skin. Use alone or under makeup, on dry spots, or as a 5-minute mask.
-Results: We tested it on women in Siberia during winter, where they face extreme weather conditions—and the results were glowing.* Immediately: 98% said their skin felt hydrated. 97% said their skin felt soft. 94% said their skin felt protected in extreme cold. 98% said their tight, dry skin felt relieved. In 1 week: 91% said their skin was glowing. 91% said their skin felt plump. 92% said their skin felt less irritated. In 4 weeks: 98% said their skin felt deeply hydrated. 96% said their skin felt healthier. 98% said their skin looked dewy. 94% said their skin felt comforted. 96% said their skin felt deeply nourished. *Consumer testing on 106 women after using the product for 4 weeks.
-Rating: 4.33
-
-
-Product name: Moisture Surge™ Active Glow Serum
-Category: Face Serums
-Price: ₹4,500.00
-Description: A first-ever serum from our most-loved Moisture Surge collection. Formulated with powerful actives, it exfoliates, hydrates, and brightens to give skin an instant and continuous glow. Clinically proven.Dermatologist tested. Safe for sensitive skin. Allergy tested. 100% fragrance free. Tested on all skin tones.
-Details: Powerful ways to glowExfoliates: Clinically proven to promote skin’s natural cell turnover to reveal fresher, smoother skin. Exfoliation is known to help other ingredients absorb more easily. Hydrates: Plumps up skin with a clinical increase in hydration. Brightens: Helps boost skin’s glow.Lightweight, milky textureRefreshing serum sinks right into skin. Layers well with moisturizer and under makeup.    Results After one use:94% show instantly smoother-feeling skin.*97% show an instant boost in hydration.*100% show an instant boost in radiance.*Visibly improves skin texture, pore appearance, and fine, dry lines.  In 8 hours:Clinically improves skin’s radiance.*  In 1 week:93% say the product is gentle and non-irritating.**90% say skin looks more hydrated.**In 2 weeks:95% say skin feels soothed with moisture.*** 91% agree this product pairs well with my moisturizer.****91% say skin looks healthier.***In 28 days:90% show visibly improved skin texture.*****  *Clinical testing on 31 women after using the product once.**Consumer testing on 165 women after 1 week of product use.***Consumer testing on 165 women after 2 weeks of product use.****Consumer testing on 105 women after 2 weeks of product use.*****Clinical testing on 31 women after using the product for 28 days.     Formula Facts Clinical Expertise Dermatologist testedSafe for sensitive skinTested on all skin tonesAllergy testedFragrance freeNon-comedogenic
-Ingredients: 5% lactic acid Helps exfoliate dulling dead skin cells, helping actives to better sink in. Hyaluronic acid Moisture-binding ingredient helps infuse skin with plumping hydration. Vitamin C Powerful antioxidant helps brighten the look of skin.
-How to use: Use morning and night on clean skin. Start with 3 drops, adding more if preferred. Use sunscreen and limit sun exposure while using and the week after.
-Results: After one use: 94% show instantly smoother-feeling skin.* 97% show an instant boost in hydration.* 100% show an instant boost in radiance.* Visibly improves skin texture, pore appearance, and fine, dry lines. In 8 hours: Clinically improves skin’s radiance.* In 1 week: 93% say the product is gentle and non-irritating.** 90% say skin looks more hydrated.** In 2 weeks: 95% say skin feels soothed with moisture.*** 91% agree this product pairs well with my moisturizer.**** 91% say skin looks healthier.*** In 28 days: 90% show visibly improved skin texture.***** *Clinical testing on 31 women after using the product once. **Consumer testing on 165 women after 1 week of product use. ***Consumer testing on 165 women after 2 weeks of product use. ****Consumer testing on 105 women after 2 weeks of product use. *****Clinical testing on 31 women after using the product for 28 days.
-Rating: 4.33
