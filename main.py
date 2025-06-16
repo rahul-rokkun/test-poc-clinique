@@ -109,7 +109,7 @@ async def chat(session_id: str, request: Request):
         title = generate_title_with_llm(user_input, matched_products)
         return {
             "response": {
-                "text": "Here are some recommendations for you",
+                "text": "Here are some recommendations!",
                 "products": matched_products,
                 "title": title
             },
