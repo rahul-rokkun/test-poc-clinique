@@ -65,7 +65,7 @@ def get_chat_history(session_messages):
 def generate_title_with_llm(user_input: str, matched_products: list) -> str:
     title_prompt = [
         SystemMessage(
-            content="You are a creative assistant. Generate a short and catchy title summarizing the type of fashion items based on user intent and product names."),
+            content="You are a creative assistant. Generate a short and catchy title summarizing the type of skin care items based on user intent and product names."),
         HumanMessage(
             content=f"User is shopping for: {user_input}\n\nRecommended products:\n{', '.join(matched_products)}\n\nGive me a short catchy title (under 8 words).")
     ]
@@ -148,8 +148,8 @@ async def generate_nudge(session_id: str, request: Request):
                ["messages"] if isinstance(msg, (HumanMessage, AIMessage))]
 
     prompt = [
-        SystemMessage(content="You are a persuasive, friendly fashion assistant. Based on the conversation, write a short, encouraging nudge for why this product would be a great choice for the user, incorporating styling tips, benefits, and making the user feel stylish and confident."),
-        HumanMessage(content=f"Conversation:\n{chr(10).join(history)}\n\nProduct: {product_name}\n\nProvide a brief, upbeat nudge that includes 1 fun styling tips (with emojis). Ensure that the styling tip has a punchy, engaging vibe, and the nudge should inspire confidence and excitement about the choice. Do not add any fluff words / non-meaningful words. It should be maximum 1 sentence. For the Product - Ambition Crepe & Satin Pencil Skirt, Here is an example nudges for evening look - Pair with a silk blouse & pointed pumps 👠 , Here is an example nudges for casual look -  Team with a sequin cami & strappy heels, Here is an example nudges for Professional look -  Style under a chunky knit & ankle boots ☕.")
+        SystemMessage(content="You are a persuasive, friendly fashion assistant. Based on the conversation, write a short, encouraging nudge for why this product would be a great choice for the user, incorporating styling tips, benefits, and making the user feel confident."),
+        HumanMessage(content=f"Conversation:\n{chr(10).join(history)}\n\nProduct: {product_name}\n\nProvide a brief, upbeat nudge that includes 1 fun tip (with emojis). Ensure that the skincare tip has a punchy, engaging vibe, and the nudge should inspire confidence and excitement about the choice. Do not add any fluff words / non-meaningful words. It should be maximum 1 sentence.")
     ]
 
     nudge_response = llm(prompt)
