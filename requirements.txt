@@ -2,6 +2,7 @@
 langchain
 langchain-community
 langchain-core
+langchain-openai
 
 # OpenAI client (compatible with langchain)
 openai==1.79.0
